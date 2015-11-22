@@ -1,0 +1,1554 @@
+id	latitude	longitude	city	city_short	state	stateShort	country	countryShort	postalcode
+53229950	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+456193667	26.2276669543631	50.7029410584319			Muharraq Governorate	Muharraq Governorate	Bahrain	BH	
+821403404	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+198075393	40.8966214099478	-77.8385798823649	Centre County	Centre County	Pennsylvania	PA	United States	US	16823
+31305822	38.7298181270699	-90.1260310233037	Madison County	Madison County	Illinois	IL	United States	US	62040
+365591244	53.4575797	-2.2266721	Greater Manchester	Gt Man			United Kingdom	GB	M14 5TB
+216865107	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+363042690	52.3681469301842	-4.10181564865493	Ceredigion	Ceredigion			United Kingdom	GB	SY23 4QQ
+216865107	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+21835987	35.583503383032	-97.5084653505946	Oklahoma County	Oklahoma County	Oklahoma	OK	United States	US	73114
+949641	15.1320893	-90.2895789			Baja Verapaz	Baja Verapaz	Guatemala	GT	
+390731357	29.8755773741943	69.319536881023	Kohlu	Kohlu	Balochistan	Balochistan	Pakistan	PK	
+47851885	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+47851885	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+634586907	22.5581396310953	79.5129424227077	Seoni	Seoni	Madhya Pradesh	MP	India	IN	480887
+306872064	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+794161836	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+44502354	40.6637996645291	-73.9381405944442	Kings County	Kings County	New York	NY	United States	US	11213
+794161836	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+100473246	51.323067981267	10.3702858803256			Thüringen	Thüringen	Germany	DE	37351
+444260704	43.7229266605499	-79.3884344372254	Toronto Division	Toronto Division	Ontario	ON	Canada	CA	
+18065469	42.9419592987041	-74.1906333396683	Montgomery County	Montgomery County	New York	NY	United States	US	12010
+18065469	42.9419592987041	-74.1906333396683	Montgomery County	Montgomery County	New York	NY	United States	US	12010
+281520735	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+281520735	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+281527818	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+281527818	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+598723666	42.9820733374162	-77.4098832845228	Ontario County	Ontario County	New York	NY	United States	US	14564
+245059632	52.5014907949381	13.4023284264194			Berlin	Berlin	Germany	DE	10969
+27000730	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+145034790	37.1232245	-78.4927721	Prince Edward County	Prince Edward County	Virginia	VA	United States	US	23947
+58711646	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+405851017	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+47851885	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+298625543	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+352090345	55	-114.9999999	Division No. 17	Division No. 17	Alberta	AB	Canada	CA	T0G 2A0
+49464307	24.8741634	67.0317972	Karachi District	Karachi District	Sindh	Sindh	Pakistan	PK	
+253749392	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+47851885	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+42970367	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+68818540	32.3796995	15.0928768			Misratah	Misratah	Libya	LY	
+887594605	43.9025136	-85.7120013	Lake County	Lake County	Michigan	MI	United States	US	49623
+321335111	43.2099760575458	5.43602088577342	Bouches-du-Rhône	Bouches-du-Rhône	Provence-Alpes-Côte d'Azur	PACA	France	FR	13009
+30023111	52.0799838	4.3113461	Den Haag	Den Haag	Zuid-Holland	ZH	Netherlands	NL	2513 AH
+74939983	32.462024	-85.084944	Russell County	Russell County	Alabama	AL	United States	US	36869
+494140744	36.1949274	-86.7417714	Davidson County	Davidson County	Tennessee	TN	United States	US	37206
+292672006	54.7240339308365	-3.31823790694781	Cumbria	Cumb			United Kingdom	GB	CA7 2HF
+212950064	41.9902585817254	12.4546124839749	Città Metropolitana di Roma	RM	Lazio	Lazio	Italy	IT	00189
+97379585	54.7023545	-3.2765753	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+22963639	40.1317460972231	-74.6560445955786	Burlington County	Burlington County	New Jersey	NJ	United States	US	08515
+531685674	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+887678408	42.1014831	-72.589811	Hampden County	Hampden County	Massachusetts	MA	United States	US	01103
+47851885	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+415981838	38.8556681	-77.0601552	Arlington County	Arlington County	Virginia	VA	United States	US	22202
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+834852890	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+834852890	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+59912234	34.46508895	-117.505971	San Bernardino County	San Bernardino County	California	CA	United States	US	92371
+455443791	39.9656575007997	-75.1810381230057	Philadelphia County	Philadelphia County	Pennsylvania	PA	United States	US	19130
+290670846	28.5421175	-81.3790462	Orange County	Orange County	Florida	FL	United States	US	32801
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+26766355	29.6313486	-96.0651362	Austin County	Austin County	Texas	TX	United States	US	77485
+361342191	40.6637996645291	-73.9381405944442	Kings County	Kings County	New York	NY	United States	US	11213
+81988652	-33.4519749	-70.73601855	Santiago	Santiago	Región Metropolitana	Región Metropolitana	Chile	CL	
+703497684	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+106826101	41.395059829161	2.0494413761056	Barcelona	B	Catalunya	CT	Spain	ES	08980
+162857507	25.7753464838061	-80.2098089934534	Miami-Dade County	Miami-Dade County	Florida	FL	United States	US	33128
+819896048	50.0725453073396	-85.8302326472676			Ontario	ON	Canada	CA	P0T 1J0
+539342970	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+66615475	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+32881741	35.4918204714283	-80.9766099278456	Lincoln County	Lincoln County	North Carolina	NC	United States	US	28037
+403759152	40.6014555	-79.7597709	Allegheny County	Allegheny County	Pennsylvania	PA	United States	US	15084
+20146800	40.0079390043574	-104.817170308458	Weld County	Weld County	Colorado	CO	United States	US	80603
+839177100	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+454831138	48.8566222307003	2.34286499353072	Paris	Paris	Île-de-France	IDF	France	FR	75001
+562276885	41.0886156933281	-85.1431618852019	Allen County	Allen County	Indiana	IN	United States	US	46808
+742726076	19.7306278	-156.0451016	Hawaii County	Hawaii County	Hawaii	HI	United States	US	96740
+356116514	35.7470095026886	-83.9783643613058	Blount County	Blount County	Tennessee	TN	United States	US	37803
+30489994	42.9119611567028	-87.8626546980281	Milwaukee County	Milwaukee County	Wisconsin	WI	United States	US	53172
+40222136	35.2479715795471	-81.1843650882187	Gaston County	Gaston County	North Carolina	NC	United States	US	28054
+387416764	-36.6202097402867	174.801049900317			Auckland	Auckland	New Zealand	NZ	0930
+820441316	33.666667	73.166667	Islamabad District	Islamabad District	Islamabad Capital Territory	Islamabad Capital Territory	Pakistan	PK	
+140641561	33.6087904530243	-117.863362323371	Orange County	Orange County	California	CA	United States	US	92625
+47376165	40.7133334	-73.9790668	New York County	New York County	New York	NY	United States	US	10002
+185022977	41.4792769817251	-81.6802348293778	Cuyahoga County	Cuyahoga County	Ohio	OH	United States	US	44113
+24622734	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+509294892	34.2935645943479	-111.664250444116	Yavapai County	Yavapai County	Arizona	AZ	United States	US	
+201981312	47.6195896809194	-122.351426321132	King County	King County	Washington	WA	United States	US	98109
+151859708	43.2099760575458	5.43602088577342	Bouches-du-Rhône	Bouches-du-Rhône	Provence-Alpes-Côte d'Azur	PACA	France	FR	13009
+19692933	33.0487435451518	-117.262383038512	San Diego County	San Diego County	California	CA	United States	US	92024
+742726076	19.7306278	-156.0451016	Hawaii County	Hawaii County	Hawaii	HI	United States	US	96740
+773685481	42.7077891006143	-78.0315621393378	Wyoming County	Wyoming County	New York	NY	United States	US	14530
+514954683	38.5427411764287	-86.4956122987764	Orange County	Orange County	Indiana	IN	United States	US	47454
+351810682	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+18007614	33.7030845691556	-117.761109254639	Orange County	Orange County	California	CA	United States	US	92620
+20339983	37.5893647791794	-122.36297407195	San Mateo County	San Mateo County	California	CA	United States	US	94010
+26413795	33.4709714	-81.9748429	Richmond County	Richmond County	Georgia	GA	United States	US	30901
+201740162	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+8346812	35.9940329	-78.898619	Durham County	Durham County	North Carolina	NC	United States	US	27701
+376357404	37.5125328842847	-78.7842249504687	Appomattox County	Appomattox County	Virginia	VA	United States	US	24553
+389236289	40.2635794156016	-89.231200715351	Logan County	Logan County	Illinois	IL	United States	US	61723
+82101281	33.899327	35.4690289	Beirut	Beirut	Beirut	Beirut	Lebanon	LB	
+394153759	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+122427926	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+55425945	28.5421175	-81.3790462	Orange County	Orange County	Florida	FL	United States	US	32801
+17426089	35.5939325	-105.2238969	San Miguel County	San Miguel County	New Mexico	NM	United States	US	87701
+796100784	42.2900228	-87.903406	Lake County	Lake County	Illinois	IL	United States	US	60048
+151551726	37.7340974	-122.3912596	San Francisco County	San Francisco County	California	CA	United States	US	94124
+200636280	8.44841416901994	-80.1587347062957	Antón	Antón	Coclé	Coclé	Panama	PA	
+192477353	53.5121582	-2.2437248	Greater Manchester	Gt Man			United Kingdom	GB	M8 9DQ
+543972287	53.548469777169	-113.535373186011	Division No. 11	Division No. 11	Alberta	AB	Canada	CA	T5N 1R8
+28031362	33.7490987	-84.3901849	Fulton County	Fulton County	Georgia	GA	United States	US	30303
+306872064	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+15050354	40.7608178	-111.8911983	Salt Lake County	Salt Lake County	Utah	UT	United States	US	84101
+100597465	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+32260931	39.9086032590092	-86.2750253303807	Marion County	Marion County	Indiana	IN	United States	US	46278
+338989094	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+524640461	39.4390792663341	-83.8278009677133	Clinton County	Clinton County	Ohio	OH	United States	US	45177
+28875977	33.669781	-117.9043161	Orange County	Orange County	California	CA	United States	US	92626
+28695649	32.7888347881421	-86.828827547511	Chilton County	Chilton County	Alabama	AL	United States	US	36750
+339760532	-35.4891187	-62.9756965	Rivadavia	Rivadavia	Buenos Aires	Buenos Aires	Argentina	AR	
+224775883	43.0342532497134	-76.2894095617706	Onondaga County	Onondaga County	New York	NY	United States	US	13031
+80791048	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+829558728	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+339760532	-35.4891187	-62.9756965	Rivadavia	Rivadavia	Buenos Aires	Buenos Aires	Argentina	AR	
+587086805	44.2540713485508	-68.2719833040346	Hancock County	Hancock County	Maine	ME	United States	US	04679
+476019258	42.3788774	-72.032366	Worcester County	Worcester County	Massachusetts	MA	United States	US	01068
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+216845778	38.56098432418	-121.257679208419	Sacramento County	Sacramento County	California	CA	United States	US	95655
+18728732	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+23197119	45.9896587	-94.6113288	Morrison County	Morrison County	Minnesota	MN	United States	US	56382
+146992127	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+317372917	46.1027468	7.0725673	Martigny	Martigny	Valais	VS	Switzerland	CH	1920
+619238474	38.9137226	-77.0494216			District of Columbia	DC	United States	US	20008
+363042690	52.3681469301842	-4.10181564865493	Ceredigion	Ceredigion			United Kingdom	GB	SY23 4QQ
+21670225	43.2314015427296	-76.2960242859431	Oswego County	Oswego County	New York	NY	United States	US	13135
+101826663	32.7898836389815	13.3369786964228			Tripoli	Tripoli	Libya	LY	
+73490800	46.5407419725633	-102.867010725628	Hettinger County	Hettinger County	North Dakota	ND	United States	US	58647
+313799444	62.3598337860776	-149.069851665813	Matanuska-Susitna	Matanuska-Susitna	Alaska	AK	United States	US	
+146992127	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+742726076	19.7306278	-156.0451016	Hawaii County	Hawaii County	Hawaii	HI	United States	US	96740
+858167538	39.9860042309952	-82.9849910137012	Franklin County	Franklin County	Ohio	OH	United States	US	43201
+24802724	30.5765947	-94.176199	Tyler County	Tyler County	Texas	TX	United States	US	77660
+153613428	33.919218336079	-117.873055411777	Orange County	Orange County	California	CA	United States	US	92821
+385700614	35.5260111527082	-79.1308217932097	Lee County	Lee County	North Carolina	NC	United States	US	27330
+135646908	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+463639406	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+361835589	26.8693745	78.5930649	Agra	Agra	Uttar Pradesh	UP	India	IN	283104
+130996903	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+38463287	40.0757384	-74.4041622	Ocean County	Ocean County	New Jersey	NJ	United States	US	08527
+169681526	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+282211632	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+316513037	36.1949274	-86.7417714	Davidson County	Davidson County	Tennessee	TN	United States	US	37206
+126702571	29.5317960897956	-95.3706699269197	Brazoria County	Brazoria County	Texas	TX	United States	US	77578
+22253744	38.9277137720332	-76.7377058430724	Prince George's County	Prince George's County	Maryland	MD	United States	US	20716
+582140844	40.2224755826074	-75.3998227152858	Montgomery County	Montgomery County	Pennsylvania	PA	United States	US	19474
+363042690	52.3681469301842	-4.10181564865493	Ceredigion	Ceredigion			United Kingdom	GB	SY23 4QQ
+14360730	51.9472808	-2.0604139	Gloucestershire	Glos			United Kingdom	GB	GL52 8LR
+105604209	31.9502444609637	-102.172474678785	Midland County	Midland County	Texas	TX	United States	US	79706
+108124138	51.0000003	9.9999997	Kassel	KS	Hessen	HE	Germany	DE	36205
+817269902	38.8666381064203	-76.9897904637991			District of Columbia	DC	United States	US	20020
+218657077	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+175458688	-35.4208140908279	-65.1122884248865			San Luis	San Luis	Argentina	AR	
+68818540	32.3796995	15.0928768			Misratah	Misratah	Libya	LY	
+24382424	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+85181202	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+16123223	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+125671954	54.7026529241702	-3.27634313190921	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+194268330	32.1170043	20.0669846			Banghazi	Banghazi	Libya	LY	
+26632935	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+39313228	39.0361288978714	-95.6954084769579	Shawnee County	Shawnee County	Kansas	KS	United States	US	66604
+817269902	38.8666381064203	-76.9897904637991			District of Columbia	DC	United States	US	20020
+17112369	38.9120559	-77.0546995			District of Columbia	DC	United States	US	20008
+302817075	54.7026529241702	-3.27634313190921	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+462420179	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+462420179	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+71690954	29.6313486	-96.0651362	Austin County	Austin County	Texas	TX	United States	US	77485
+499592627	34.2338003271383	-102.409175877629	Lamb County	Lamb County	Texas	TX	United States	US	79031
+817269902	38.8666381064203	-76.9897904637991			District of Columbia	DC	United States	US	20020
+197063540	37.8857582	-122.1180201	Contra Costa County	Contra Costa County	California	CA	United States	US	94549
+243053646	32.7898827557247	13.3369763535347			Tripoli	Tripoli	Libya	LY	
+21442619	52.3744779	9.7385532			Niedersachsen	NDS	Germany	DE	30159
+33240098	40.3519297	-102.8513197	Washington County	Washington County	Colorado	CO	United States	US	80743
+94165248	38.4100020565869	-82.5283883472946	Lawrence County	Lawrence County	Ohio	OH	United States	US	45680
+16377693	-21.3018599	165.4878868	Houaïlou	Houaïlou	Province Nord	Province Nord	New Caledonia	NC	
+24524057	35.6705316988542	-105.968603103232	Santa Fe County	Santa Fe County	New Mexico	NM	United States	US	87505
+26172932	23.7606822353147	90.4496274760046	Dhaka	Dhaka	Dhaka Division	Dhaka Division	Bangladesh	BD	
+295421748	51.5072648	-0.1278328	Greater London	Gt Lon			United Kingdom	GB	WC2N 5DU
+39327538	40.5475968	-75.561297	Lehigh County	Lehigh County	Pennsylvania	PA	United States	US	18046
+318676945	38.3316297408394	-85.7023797004907	Clark County	Clark County	Indiana	IN	United States	US	47130
+571136614	26.8234472	18.1236723			Al Jufrah	Al Jufrah	Libya	LY	
+361342191	40.6637996645291	-73.9381405944442	Kings County	Kings County	New York	NY	United States	US	11213
+201981312	47.6195896809194	-122.351426321132	King County	King County	Washington	WA	United States	US	98109
+44611134	-4.7993352	114.5632028					Indonesia	ID	
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+239154848	43.2099760575458	5.43602088577342	Bouches-du-Rhône	Bouches-du-Rhône	Provence-Alpes-Côte d'Azur	PACA	France	FR	13009
+18011486	29.8575373614321	-95.3936424883805	Harris County	Harris County	Texas	TX	United States	US	77076
+93203347	35.7470095026886	-83.9783643613058	Blount County	Blount County	Tennessee	TN	United States	US	37803
+51268700	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+228189745	37.0259038830179	-107.877622502258	La Plata County	La Plata County	Colorado	CO	United States	US	81303
+325294712	43.4113418161054	-106.277079251711	Natrona County	Natrona County	Wyoming	WY	United States	US	82643
+190820595	55.7516147	37.6187089	gorod Moskva	g. Moskva	Moscow	Moscow	Russia	RU	
+74939983	32.462024	-85.084944	Russell County	Russell County	Alabama	AL	United States	US	36869
+14526093	-33.4379537	-70.650404	Santiago	Santiago	Región Metropolitana	Región Metropolitana	Chile	CL	
+37228198	-6.1809269	106.8284591	Kota Jakarta Pusat	Kota Jakarta Pusat	Daerah Khusus Ibukota Jakarta	Daerah Khusus Ibukota Jakarta	Indonesia	ID	10110
+806010806	39.6943418584552	-104.704487984426	Arapahoe County	Arapahoe County	Colorado	CO	United States	US	80018
+229212390	26.8234472	18.1236723			Al Jufrah	Al Jufrah	Libya	LY	
+449056680	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+274132729	51.0000003	9.9999997	Kassel	KS	Hessen	HE	Germany	DE	36205
+544152740	-0.3666	35.2833			Kericho County	Kericho County	Kenya	KE	
+463998008	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+345426891	37.5125328842847	-78.7842249504687	Appomattox County	Appomattox County	Virginia	VA	United States	US	24553
+27653089	51.7681389338245	-0.236793206801447	Hertfordshire	Hertfordshire			United Kingdom	GB	AL10 9TL
+27277336	31.9502444609637	-102.172474678785	Midland County	Midland County	Texas	TX	United States	US	79706
+227837742	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+146619868	55.7008591936848	-113.392296279698	Division No. 17	Division No. 17	Alberta	AB	Canada	CA	
+616307456	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+390472547	42.9569139	-94.4409835	Palo Alto County	Palo Alto County	Iowa	IA	United States	US	50597
+361517124	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+142117632	32.7715227	-89.1167275	Neshoba County	Neshoba County	Mississippi	MS	United States	US	39350
+211337042	40.9251820448963	-82.0558590419221	Wayne County	Wayne County	Ohio	OH	United States	US	44287
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+422145250	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+136173938	47.6765073	-122.3862233	King County	King County	Washington	WA	United States	US	98117
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+208147811	55.9538125	-3.1881474	Edinburgh	Edinburgh			United Kingdom	GB	
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+179874061	32.7898836389815	13.3369786964228			Tripoli	Tripoli	Libya	LY	
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+316337192	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+316337192	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+58711646	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+23202327	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+196292489	46.9700597145559	-124.152016041768	Grays Harbor County	Grays Harbor County	Washington	WA	United States	US	98569
+198095537	52.5393755	13.4209963			Berlin	Berlin	Germany	DE	10435
+100580030	27.6886419	-82.5723193	Manatee County	Manatee County	Florida	FL	United States	US	34221
+334859362	47.3752671	-109.6387579	Fergus County	Fergus County	Montana	MT	United States	US	59457
+755182140	43.1898344538681	-96.1326737355398	Sioux County	Sioux County	Iowa	IA	United States	US	51239
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+861327578	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+34530038	42.3604823	-71.0595678	Suffolk County	Suffolk County	Massachusetts	MA	United States	US	02114
+725923399	35.7811149782033	-78.81406990273	Wake County	Wake County	North Carolina	NC	United States	US	27513
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+262645734	47.6195896809194	-122.351426321132	King County	King County	Washington	WA	United States	US	98109
+449008775	38.5815719	-121.4943996	Sacramento County	Sacramento County	California	CA	United States	US	95814
+372350619	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+36033897	34.0659329	-84.6768796	Cobb County	Cobb County	Georgia	GA	United States	US	30101
+44347034	42.7676461315722	-86.0985266965975	Allegan County	Allegan County	Michigan	MI	United States	US	49423
+19250737	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+308002270	33.5631882397003	-86.6060930738465	Jefferson County	Jefferson County	Alabama	AL	United States	US	35173
+279398176	38.7455626	-90.3632649	St. Louis County	St Louis County	Missouri	MO	United States	US	63145
+54281064	32.7888347881421	-86.828827547511	Chilton County	Chilton County	Alabama	AL	United States	US	36750
+75440541	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+534883549	40.0706231	-82.1756986	Muskingum County	Muskingum County	Ohio	OH	United States	US	43830
+524348545	30.691068	-81.9173334	Nassau County	Nassau County	Florida	FL	United States	US	32046
+80415454	46.3167123531738	-94.3087317829019	Crow Wing County	Crow Wing County	Minnesota	MN	United States	US	56425
+194615561	33.9715582436378	-117.571304035459	Riverside County	Riverside County	California	CA	United States	US	92880
+64786147	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+709512284	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+21253575	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+40039232	49.2500011	-122.9500111	Greater Vancouver	Greater Vancouver	British Columbia	BC	Canada	CA	
+19328644	50.7309796	-3.5226011	Devon	Devon			United Kingdom	GB	EX4 6QF
+16050807	40.2635794156016	-89.231200715351	Logan County	Logan County	Illinois	IL	United States	US	61723
+273071294	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+561671409	42.253068533117	-71.7971827014699	Worcester County	Worcester County	Massachusetts	MA	United States	US	01610
+43182702	34.2935645943479	-111.664250444116	Yavapai County	Yavapai County	Arizona	AZ	United States	US	
+817269902	38.8666381064203	-76.9897904637991			District of Columbia	DC	United States	US	20020
+411765271	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+24848469	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+21967840	30.5881207783496	-96.295321731974	Brazos County	Brazos County	Texas	TX	United States	US	77845
+18244428	41.4792769817251	-81.6802348293778	Cuyahoga County	Cuyahoga County	Ohio	OH	United States	US	44113
+631530752	42.2111479283453	43.3079197535714			Imereti	Imereti	Georgia	GE	
+380526984	36.4993007	-80.6072859	Surry County	Surry County	North Carolina	NC	United States	US	27030
+23272248	40.414375588896	-82.7103325006327	Morrow County	Morrow County	Ohio	OH	United States	US	43334
+354401261	37.0787440602975	-113.579577724679	Washington County	Washington County	Utah	UT	United States	US	84790
+75386439	36.1949274	-86.7417714	Davidson County	Davidson County	Tennessee	TN	United States	US	37206
+60329634	31.3446262	-95.0812254	Houston County	Houston County	Texas	TX	United States	US	75847
+97782957	45.6358634566841	-122.600221698704	Clark County	Clark County	Washington	WA	United States	US	98661
+69503087	37.1933966634309	-100.851306076475	Seward County	Seward County	Kansas	KS	United States	US	67901
+527276621	26.334167	127.805556			Okinawa-ken	Okinawa-ken	Japan	JP	904-0014
+21567214	42.2111479283453	43.3079197535714			Imereti	Imereti	Georgia	GE	
+53509516	36.2038772037251	-86.34555297694	Wilson County	Wilson County	Tennessee	TN	United States	US	37087
+83696620	32.0392198559498	-81.1688879370436	Chatham County	Chatham County	Georgia	GA	United States	US	31405
+20709918	34.574307	-112.5035725	Yavapai County	Yavapai County	Arizona	AZ	United States	US	86305
+582927693	44.3890948804148	-114.659381229814	Custer County	Custer County	Idaho	ID	United States	US	83278
+29799419	-21.3018599	165.4878868	Houaïlou	Houaïlou	Province Nord	Province Nord	New Caledonia	NC	
+16067592	52.4813678	-1.8980725	West Midlands	West Mids			United Kingdom	GB	
+565883475	19.8557561779443	145.313199870233					Northern Mariana Islands	MP	
+55270154	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+200134659	40.6017707	-74.2047668	Union County	Union County	New Jersey	NJ	United States	US	07036
+310305873	41.4792769817251	-81.6802348293778	Cuyahoga County	Cuyahoga County	Ohio	OH	United States	US	44113
+874342946	29.8755773741943	69.319536881023	Kohlu	Kohlu	Balochistan	Balochistan	Pakistan	PK	
+88071033	27.9089301532562	-82.7724721586567	Pinellas County	Pinellas County	Florida	FL	United States	US	33771
+22253744	38.9277137720332	-76.7377058430724	Prince George's County	Prince George's County	Maryland	MD	United States	US	20716
+217651571	41.1684527819576	-73.7619702788087	Westchester County	Westchester County	New York	NY	United States	US	10514
+216579407	40.3270127	-86.1746933	Tipton County	Tipton County	Indiana	IN	United States	US	46072
+565451707	40.71255833	-74.28936009	Union County	Union County	New Jersey	NJ	United States	US	07083
+19141379	35.6006041220685	-105.220351403678	San Miguel County	San Miguel County	New Mexico	NM	United States	US	87701
+18856444	49.2025864373207	3.54805796409424	Aisne	Aisne	Picardie	Picardie	France	FR	02130
+100147898	26.2191995021352	-98.2446791592708	Hidalgo County	Hidalgo County	Texas	TX	United States	US	78501
+582362420	27.7463347329237	-82.7099774508057	Pinellas County	Pinellas County	Florida	FL	United States	US	33707
+305163986	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+85330810	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+232555338	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+193797007	40.2635794156016	-89.231200715351	Logan County	Logan County	Illinois	IL	United States	US	61723
+368793771	61.576921268227	-149.465345575795	Matanuska-Susitna	Matanuska-Susitna	Alaska	AK	United States	US	99654
+276747992	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+14237650	42.0753048284751	-73.6017433404334	Columbia County	Columbia County	New York	NY	United States	US	12503
+544072065	39.3237378620219	-111.678210258026	Sanpete County	Sanpete County	Utah	UT	United States	US	84642
+24966943	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+24966943	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+353400460	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+38122533	49.5915624	-98.0027174	Division No. 3	Division No. 3	Manitoba	MB	Canada	CA	R0G 0J0
+309378220	36.421939056723	104.23021048796			Gansu Sheng	Gansu Sheng	China	CN	
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+561671409	42.253068533117	-71.7971827014699	Worcester County	Worcester County	Massachusetts	MA	United States	US	01610
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+324747611	34.5963061	-117.3817356	San Bernardino County	San Bernardino County	California	CA	United States	US	92394
+179526726	48.7150439079687	9.20124161246674	Stuttgart	Süd	Baden-Württemberg	BW	Germany	DE	70599
+449106073	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+38226099	31.8160381	-99.5120986	Coleman County	Coleman County	Texas	TX	United States	US	76834
+75944553	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+449106073	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+377528838	32.8170355705203	-117.133438528581	San Diego County	San Diego County	California	CA	United States	US	92123
+35094176	40.414375588896	-82.7103325006327	Morrow County	Morrow County	Ohio	OH	United States	US	43334
+23101159	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+30966902	35.8221492581122	-95.6818639172519	Muskogee County	Muskogee County	Oklahoma	OK	United States	US	74436
+81011993	-34.69192925	138.58751835			South Australia	SA	Australia	AU	
+31622085	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+537407702	28.477052520335	-82.4664127164481	Hernando County	Hernando County	Florida	FL	United States	US	34604
+569546005	30.4924268	-97.2026694	Williamson County	Williamson County	Texas	TX	United States	US	76578
+20709918	34.574307	-112.5035725	Yavapai County	Yavapai County	Arizona	AZ	United States	US	86305
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+360157542	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+610094474	33.919218336079	-117.873055411777	Orange County	Orange County	California	CA	United States	US	92821
+527276621	26.334167	127.805556			Okinawa-ken	Okinawa-ken	Japan	JP	904-0014
+237553865	40.8329972433544	-74.2433774691729	Essex County	Essex County	New Jersey	NJ	United States	US	07044
+187879953	39.5866093780643	-75.3518693795619	Salem County	Salem County	New Jersey	NJ	United States	US	08098
+330575788	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+43875280	39.1231242661439	-76.7915363636522	Anne Arundel County	Anne Arundel County	Maryland	MD	United States	US	20724
+24966943	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+24966943	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+18856444	49.2025864373207	3.54805796409424	Aisne	Aisne	Picardie	Picardie	France	FR	02130
+279831463	36.839862	-76.2989285			Virginia	VA	United States	US	23704
+21062652	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+614597074	35.5260111527082	-79.1308217932097	Lee County	Lee County	North Carolina	NC	United States	US	27330
+14567747	37.2387577	-76.5096706	York County	York County	Virginia	VA	United States	US	23690
+854992056	28.5421175	-81.3790462	Orange County	Orange County	Florida	FL	United States	US	32801
+26936449	26.7056206	-80.0364297	Palm Beach County	Palm Beach County	Florida	FL	United States	US	33480
+262970910	37.2409857	-78.4594395	Prince Edward County	Prince Edward County	Virginia	VA	United States	US	23901
+114009456	39.7935978	-104.8334858	Denver County	Denver County	Colorado	CO	United States	US	80239
+293967375	37.7798139	-122.3911499	San Francisco County	San Francisco County	California	CA	United States	US	94107
+22817038	42.3442482	-75.1704468	Delaware County	Delaware County	New York	NY	United States	US	13775
+274196461	36.0728557418275	-94.1651618945681	Washington County	Washington County	Arkansas	AR	United States	US	72701
+258590217	-21.3018599	165.4878868	Houaïlou	Houaïlou	Province Nord	Province Nord	New Caledonia	NC	
+28030540	40.499925	-74.455129	Middlesex County	Middlesex County	New Jersey	NJ	United States	US	08901
+125273634	29.9833182125878	-95.332719723864	Harris County	Harris County	Texas	TX	United States	US	77032
+434910897	38.5475485131703	-97.1543135457367	Marion County	Marion County	Kansas	KS	United States	US	67483
+856600435	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+126301943	44.2657131118236	-72.5717018071081	Washington County	Washington County	Vermont	VT	United States	US	05602
+255719072	39.9860051164966	-82.9849931607459	Franklin County	Franklin County	Ohio	OH	United States	US	43201
+22371600	7.91733452715345	126.267074164232	Davao Oriental	Davao Oriental	Davao Region	Davao Region	Philippines	PH	
+222861547	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+27169925	26.0336331657149	-80.1486615202097	Broward County	Broward County	Florida	FL	United States	US	33020
+23409366	3.51667	39.15			Marsabit	Marsabit	Kenya	KE	
+88078856	-35.4891187	-62.9756965	Rivadavia	Rivadavia	Buenos Aires	Buenos Aires	Argentina	AR	
+378963575	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+38521731	31.1022820067037	-97.3786891436982	Bell County	Bell County	Texas	TX	United States	US	76504
+90918950	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+25908705	38.0731455056924	-120.551599458976	Calaveras County	Calaveras County	California	CA	United States	US	95222
+23449593	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+345551240	49.2025864373207	3.54805796409424	Aisne	Aisne	Picardie	Picardie	France	FR	02130
+103594788	32.1957274020695	-83.1756889224863	Dodge County	Dodge County	Georgia	GA	United States	US	31023
+345026344	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+2554741	33.4448044453891	-117.70575247094	Orange County	Orange County	California	CA	United States	US	92629
+31057963	48.51886405	2.3718805	Essonne	Essonne	Île-de-France	IDF	France	FR	91610
+503917772	40.4661619556515	-74.319758687005	Middlesex County	Middlesex County	New Jersey	NJ	United States	US	08859
+158232890	28.477052520335	-82.4664127164481	Hernando County	Hernando County	Florida	FL	United States	US	34604
+229875160	32.7715227	-89.1167275	Neshoba County	Neshoba County	Mississippi	MS	United States	US	39350
+81011993	-34.69192925	138.58751835			South Australia	SA	Australia	AU	
+105105254	-37.823594146664	145.181088211449			Victoria	VIC	Australia	AU	3131
+14726230	40.97819645	-74.094494	Bergen County	Bergen County	New Jersey	NJ	United States	US	07450
+169947789	44.6407610635844	-89.7337411530195	Portage County	Portage County	Wisconsin	WI	United States	US	54443
+49099638	46.9760067	7.47234795	Bern	Bern	Bern	BE	Switzerland	CH	3063
+274773585	29.1806792671471	-82.146505342723	Marion County	Marion County	Florida	FL	United States	US	34471
+751226472	17.4204444461272	9.4004088676096	Tchirozerine	Tchirozerine	Agadez	Agadez	Niger	NE	
+258568901	42.275564194383	-71.1639021898088	Suffolk County	Suffolk County	Massachusetts	MA	United States	US	02132
+345330992	35.5260111527082	-79.1308217932097	Lee County	Lee County	North Carolina	NC	United States	US	27330
+16377693	-21.3018599	165.4878868	Houaïlou	Houaïlou	Province Nord	Province Nord	New Caledonia	NC	
+50458089	37.5125328842847	-78.7842249504687	Appomattox County	Appomattox County	Virginia	VA	United States	US	24553
+431767505	30.2674473	-97.7425618	Travis County	Travis County	Texas	TX	United States	US	78701
+25888995	38.8298636838324	-104.83232300589	El Paso County	El Paso County	Colorado	CO	United States	US	80903
+315460454	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+838680126	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+126405241	40.5508527	-105.0668085	Larimer County	Larimer County	Colorado	CO	United States	US	80525
+46719826	40.6178915	-75.3786521	Northampton County	Northampton County	Pennsylvania	PA	United States	US	18018
+10168082	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+466850945	44.3890948804148	-114.659381229814	Custer County	Custer County	Idaho	ID	United States	US	83278
+585872743	42.3750997	-71.1056157	Middlesex County	Middlesex County	Massachusetts	MA	United States	US	02139
+25445038	36.0391456	-114.9819235	Clark County	Clark County	Nevada	NV	United States	US	89015
+399770251	44.4454014359065	-92.2795181167507	Wabasha County	Wabasha County	Minnesota	MN	United States	US	55041
+25357000	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+376885285	38.9877735986165	-77.020672941526	Montgomery County	Montgomery County	Maryland	MD	United States	US	20910
+221040059	40.7902778	-73.9597222	New York County	New York County	New York	NY	United States	US	10029
+184049928	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+293967375	37.7798139	-122.3911499	San Francisco County	San Francisco County	California	CA	United States	US	94107
+377528117	47.6195896809194	-122.351426321132	King County	King County	Washington	WA	United States	US	98109
+19637012	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+293967375	37.7798139	-122.3911499	San Francisco County	San Francisco County	California	CA	United States	US	94107
+23440026	40.7029335	-73.6208315	Nassau County	Nassau County	New York	NY	United States	US	11550
+311519132	42.3971726243827	-83.3733273763063	Wayne County	Wayne County	Michigan	MI	United States	US	48154
+227837742	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+263929833	30.4380832	-84.2809332	Leon County	Leon County	Florida	FL	United States	US	32301
+598319603	50.0415358	-110.6775465	Division No. 1	Division No. 1	Alberta	AB	Canada	CA	T1A 8E6
+23375683	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+19950666	38.4847205003067	-98.3802077103331	Rice County	Rice County	Kansas	KS	United States	US	67427
+17084442	32.7888347881421	-86.828827547511	Chilton County	Chilton County	Alabama	AL	United States	US	36750
+462460868	33.5483344995291	-86.5567343455481	Jefferson County	Jefferson County	Alabama	AL	United States	US	35094
+261092366	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+152649168	16.3126806994275	106.367897087277			Savannakhet	Savannakhet	Laos	LA	
+18059662	34.2935645943479	-111.664250444116	Yavapai County	Yavapai County	Arizona	AZ	United States	US	
+254692220	33.5135068	36.2754315	Damascus	Damascus	Damascus Governorate	Damascus Governorate	Syria	SY	
+753533408	39.2975936	-94.7158043	Platte County	Platte County	Missouri	MO	United States	US	64153
+16799649	40.0467781	-74.9861806	Philadelphia County	Philadelphia County	Pennsylvania	PA	United States	US	19114
+127315618	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+598881731	39.7683795	-86.1580447	Marion County	Marion County	Indiana	IN	United States	US	46204
+293967375	37.7798139	-122.3911499	San Francisco County	San Francisco County	California	CA	United States	US	94107
+87591671	44.873789591494	-85.7305392647706	Leelanau County	Leelanau County	Michigan	MI	United States	US	49621
+279898945	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+94928854	34.2338003271383	-102.409175877629	Lamb County	Lamb County	Texas	TX	United States	US	79031
+15423837	29.6313486	-96.0651362	Austin County	Austin County	Texas	TX	United States	US	77485
+73415906	38.6751523748511	-121.14801564573	Sacramento County	Sacramento County	California	CA	United States	US	95630
+19055310	39.531096914181	-104.870132157994	Douglas County	Douglas County	Colorado	CO	United States	US	80124
+890637882	43.1609582311674	-73.0709933844984	Bennington County	Bennington County	Vermont	VT	United States	US	05255
+875480395	36.2534839	-77.979887	Warren County	Warren County	North Carolina	NC	United States	US	27844
+319337461	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+20497041	29.4246002	-98.4951405	Bexar County	Bexar County	Texas	TX	United States	US	78205
+18104557	37.5266535167382	-85.290451313485	Marion County	Marion County	Kentucky	KY	United States	US	40033
+25325638	38.4617199	-90.2875156	St. Louis County	St Louis County	Missouri	MO	United States	US	63129
+146031761	28.477052520335	-82.4664127164481	Hernando County	Hernando County	Florida	FL	United States	US	34604
+875559248	43.1609582311674	-73.0709933844984	Bennington County	Bennington County	Vermont	VT	United States	US	05255
+30311356	37.4892312379675	-92.0977482443755	Texas County	Texas County	Missouri	MO	United States	US	65557
+342453826	44.3956249	-69.5711544	Kennebec County	Kennebec County	Maine	ME	United States	US	04358
+487190581	35.5260111527082	-79.1308217932097	Lee County	Lee County	North Carolina	NC	United States	US	27330
+25445038	36.0391456	-114.9819235	Clark County	Clark County	Nevada	NV	United States	US	89015
+51234127	32.1170043	20.0669846			Banghazi	Banghazi	Libya	LY	
+180828199	33.919218336079	-117.873055411777	Orange County	Orange County	California	CA	United States	US	92821
+154067999	43.9734286390891	-75.9093565126704	Jefferson County	Jefferson County	New York	NY	United States	US	13601
+260352816	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+37806696	38.9517777090312	-76.6993720409835	Prince George's County	Prince George's County	Maryland	MD	United States	US	20716
+263336093	25.7753464838061	-80.2098089934534	Miami-Dade County	Miami-Dade County	Florida	FL	United States	US	33128
+26495176	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+58879475	43.1688417971729	-77.6159448611057	Monroe County	Monroe County	New York	NY	United States	US	14605
+224907219	53.501992329249	-113.493219480313	Division No. 11	Division No. 11	Alberta	AB	Canada	CA	T6H 2J1
+65490861	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+368793771	61.576921268227	-149.465345575795	Matanuska-Susitna	Matanuska-Susitna	Alaska	AK	United States	US	99654
+346206973	35.962782	-83.9201555	Knox County	Knox County	Tennessee	TN	United States	US	37902
+111539157	37.5105191453511	-78.6880292074937	Buckingham County	Buckingham County	Virginia	VA	United States	US	24553
+270973788	48.1678178633889	-122.146484222143	Snohomish County	Snohomish County	Washington	WA	United States	US	98223
+345551240	49.2025864373207	3.54805796409424	Aisne	Aisne	Picardie	Picardie	France	FR	02130
+239533860	39.3237378620219	-111.678210258026	Sanpete County	Sanpete County	Utah	UT	United States	US	84642
+397984975	51.7681389338245	-0.236793206801447	Hertfordshire	Hertfordshire			United Kingdom	GB	AL10 9TL
+384393903	39.9086758026305	-86.2752302104939	Marion County	Marion County	Indiana	IN	United States	US	46278
+138922792	39.7311605099723	-84.0626639985957	Greene County	Greene County	Ohio	OH	United States	US	45432
+15730096	34.2479714123448	9.66375871166301	Mazzouna	Mazzouna	Sidi Bou Zid	Sidi Bou Zid	Tunisia	TN	
+872992880	43.5401014577368	-96.7381796734993	Minnehaha County	Minnehaha County	South Dakota	SD	United States	US	57104
+18882704	34.1916515951293	-118.875733308637	Ventura County	Ventura County	California	CA	United States	US	91360
+270220440	35.6689167822802	-97.4159814609115	Oklahoma County	Oklahoma County	Oklahoma	OK	United States	US	73034
+390431163	30.4507462	-91.154551	East Baton Rouge Parish	East Baton Rouge Parish	Louisiana	LA	United States	US	70806
+796080385	-35.6497775351568	-65.1260199575658			San Luis	San Luis	Argentina	AR	
+214049965	-21.3018599	165.4878868	Houaïlou	Houaïlou	Province Nord	Province Nord	New Caledonia	NC	
+879765494	25.9773466521907	-80.3354553618985	Broward County	Broward County	Florida	FL	United States	US	33027
+14974885	40.7608178	-111.8911983	Salt Lake County	Salt Lake County	Utah	UT	United States	US	84101
+875633221	43.2314015427296	-76.2960242859431	Oswego County	Oswego County	New York	NY	United States	US	13135
+60938552	40.414375588896	-82.7103325006327	Morrow County	Morrow County	Ohio	OH	United States	US	43334
+296630513	34.1709746496809	-83.9132720991292	Hall County	Hall County	Georgia	GA	United States	US	30542
+60938552	40.414375588896	-82.7103325006327	Morrow County	Morrow County	Ohio	OH	United States	US	43334
+171304787	41.6395557519921	-75.7048498925631	Lackawanna County	Lackawanna County	Pennsylvania	PA	United States	US	18446
+490946441	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+50580177	47.6195896809194	-122.351426321132	King County	King County	Washington	WA	United States	US	98109
+807711961	25.775336173525	-80.2098157036709	Miami-Dade County	Miami-Dade County	Florida	FL	United States	US	33128
+254311027	40.4705514039261	-83.8886258451583	Logan County	Logan County	Ohio	OH	United States	US	43348
+502067536	32.6395776	-96.5382228	Dallas County	Dallas County	Texas	TX	United States	US	75159
+188410354	33.666667	73.166667	Islamabad District	Islamabad District	Islamabad Capital Territory	Islamabad Capital Territory	Pakistan	PK	
+877933326	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+628211539	38.7317816	-77.0448768	Fairfax County	Fairfax County	Virginia	VA	United States	US	22308
+41560467	56.5	-4	Perth and Kinross	Perth and Kinross			United Kingdom	GB	PH8 0EH
+232579939	52.5014907949381	13.4023284264194			Berlin	Berlin	Germany	DE	10969
+361835589	26.8693745	78.5930649	Agra	Agra	Uttar Pradesh	UP	India	IN	283104
+99140220	43.7229266605499	-79.3884344372254	Toronto Division	Toronto Division	Ontario	ON	Canada	CA	
+28762327	48.7764765495561	2.29645312233244	Hauts-de-Seine	Hauts-de-Seine	Île-de-France	IDF	France	FR	92330
+158980838	40.414375588896	-82.7103325006327	Morrow County	Morrow County	Ohio	OH	United States	US	43334
+19401317	41.0458110237233	-83.6379816792052	Hancock County	Hancock County	Ohio	OH	United States	US	45840
+358124146	42.6973054	23.3199839			Sofia-city	Sofia-city	Bulgaria	BG	1000
+22822556	48.1527300468438	-123.676638108944	Clallam County	Clallam County	Washington	WA	United States	US	98363
+30023111	52.0799838	4.3113461	Den Haag	Den Haag	Zuid-Holland	ZH	Netherlands	NL	2513 AH
+42010704	42.4250964	-71.066163	Middlesex County	Middlesex County	Massachusetts	MA	United States	US	02148
+585182654	45.0155105054204	-93.1544471386552	Ramsey County	Ramsey County	Minnesota	MN	United States	US	55113
+117498318	32.7888347881421	-86.828827547511	Chilton County	Chilton County	Alabama	AL	United States	US	36750
+333077890	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+361835589	26.8693745	78.5930649	Agra	Agra	Uttar Pradesh	UP	India	IN	283104
+361835589	26.8693745	78.5930649	Agra	Agra	Uttar Pradesh	UP	India	IN	283104
+350545056	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+36723971	40.1317460972231	-74.6560445955786	Burlington County	Burlington County	New Jersey	NJ	United States	US	08515
+83453988	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+66246964	39.0979348105746	-84.5044736684466	Hamilton County	Hamilton County	Ohio	OH	United States	US	45202
+323933714	51.4835299	-3.1836873	Cardiff	Cardiff			United Kingdom	GB	CF10 3NB
+878004158	29.8755773741943	69.319536881023	Kohlu	Kohlu	Balochistan	Balochistan	Pakistan	PK	
+859176692	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+361835589	26.8693745	78.5930649	Agra	Agra	Uttar Pradesh	UP	India	IN	283104
+350545056	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+859176692	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+859176692	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+859176692	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+15041797	36.7014631	-118.7559974	Tulare County	Tulare County	California	CA	United States	US	
+732651097	41.6639730384058	-83.5819400927175	Lucas County	Lucas County	Ohio	OH	United States	US	43606
+101616405	39.1877075524891	-96.6050788249349	Riley County	Riley County	Kansas	KS	United States	US	66502
+425424723	44.6407610635844	-89.7337411530195	Portage County	Portage County	Wisconsin	WI	United States	US	54443
+71349174	53.5121582	-2.2437248	Greater Manchester	Gt Man			United Kingdom	GB	M8 9DQ
+148720003	35.8819848	-78.3138108	Wake County	Wake County	North Carolina	NC	United States	US	27597
+167862232	34.008926809091	-81.0727050425296	Richland County	Richland County	South Carolina	SC	United States	US	29210
+297328190	34.5963061	-117.3817356	San Bernardino County	San Bernardino County	California	CA	United States	US	92394
+369553926	-33.0546283163223	-71.5972182760701	Valparaiso	Valparaiso	Región de Valparaíso	Región de Valparaíso	Chile	CL	
+34544169	30.5720001332691	-87.8565343393709	Baldwin County	Baldwin County	Alabama	AL	United States	US	36526
+80677991	30.0799405	-95.4171601	Harris County	Harris County	Texas	TX	United States	US	77373
+353125639	35.8326085005232	-78.6447478136395	Wake County	Wake County	North Carolina	NC	United States	US	27609
+225524266	40.7498243	-73.7976337	Queens County	Queens County	New York	NY	United States	US	11358
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+34544169	30.5720001332691	-87.8565343393709	Baldwin County	Baldwin County	Alabama	AL	United States	US	36526
+84087594	33.7630245218778	-84.4228731308239	Fulton County	Fulton County	Georgia	GA	United States	US	30314
+400067888	54.7026529241702	-3.27634313190921	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+379262597	40.6006596	-74.1948665	Richmond County	Richmond County	New York	NY	United States	US	10314
+235718672	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+799867381	31.5621916	74.3228517	Lahore District	Lahore District	Punjab	Punjab	Pakistan	PK	
+173419089	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+18076590	33.007411020078	-97.1674215223075	Denton County	Denton County	Texas	TX	United States	US	76262
+235718672	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+243339056	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+255401686	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+499809937	17.9712148	-76.7928128			Kingston Parish	Kingston Parish	Jamaica	JM	
+25448459	33.9076520805286	-98.5302903683807	Wichita County	Wichita County	Texas	TX	United States	US	76301
+614558902	40.0467781	-74.9861806	Philadelphia County	Philadelphia County	Pennsylvania	PA	United States	US	19114
+105604742	62.3431032404063	16.9018748755589			Västernorrlands län	Västernorrlands län	Sweden	SE	864 31
+839177100	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+173419089	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+838727551	37.5125328842847	-78.7842249504687	Appomattox County	Appomattox County	Virginia	VA	United States	US	24553
+243053646	32.7898827557247	13.3369763535347			Tripoli	Tripoli	Libya	LY	
+101826663	32.7898836389815	13.3369786964228			Tripoli	Tripoli	Libya	LY	
+64285818	44.6355716916204	-90.0249651938892	Wood County	Wood County	Wisconsin	WI	United States	US	54412
+113430220	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+86046576	30.7550035	20.2233257			Ajdabiya	Ajdabiya	Libya	LY	
+263180941	36.9570753100284	-122.06206141651	Santa Cruz County	Santa Cruz County	California	CA	United States	US	95060
+834852890	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+93636932	28.5978559106602	77.1872945355962	New Delhi	New Delhi	Delhi	DL	India	IN	110021
+246635722	47.4114902620732	-120.586574680689	Chelan County	Chelan County	Washington	WA	United States	US	98815
+192756238	24.6320297	46.7149069			Riyadh Province	Riyadh Province	Saudi Arabia	SA	12634
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+211216670	34.1235066218039	-118.258901104574	Los Angeles County	Los Angeles County	California	CA	United States	US	91204
+74939983	32.462024	-85.084944	Russell County	Russell County	Alabama	AL	United States	US	36869
+243053646	32.7898827557247	13.3369763535347			Tripoli	Tripoli	Libya	LY	
+98724873	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+470535886	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+219180314	45.6358634566841	-122.600221698704	Clark County	Clark County	Washington	WA	United States	US	98661
+21061024	30.2674473	-97.7425618	Travis County	Travis County	Texas	TX	United States	US	78701
+13139342	29.4246002	-98.4951405	Bexar County	Bexar County	Texas	TX	United States	US	78205
+561614307	57.3678928192086	-4.41061064138832	Highland	Highld			United Kingdom	GB	IV3 8LD
+22888925	41.7271051849693	-88.1879237766098	DuPage County	Dupage County	Illinois	IL	United States	US	60564
+596232333	29.8755773741943	69.319536881023	Kohlu	Kohlu	Balochistan	Balochistan	Pakistan	PK	
+28838979	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+274557203	26.1551251	50.5344606			Central Governorate	Central Governorate	Bahrain	BH	
+276877221	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+263180941	36.9570753100284	-122.06206141651	Santa Cruz County	Santa Cruz County	California	CA	United States	US	95060
+407017775	35.6787312	139.7678139			Tōkyō-to	Tōkyō-to	Japan	JP	103-0028
+361835589	26.8693745	78.5930649	Agra	Agra	Uttar Pradesh	UP	India	IN	283104
+211216670	34.1235066218039	-118.258901104574	Los Angeles County	Los Angeles County	California	CA	United States	US	91204
+297949771	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+108269123	10.211981262717	-67.9894563987671	Municipio Autónomo Valencia	Municipio Autónomo Valencia	Carabobo	Carabobo	Venezuela	VE	2001
+108124138	51.0000003	9.9999997	Kassel	KS	Hessen	HE	Germany	DE	36205
+108124138	51.0000003	9.9999997	Kassel	KS	Hessen	HE	Germany	DE	36205
+108124138	51.0000003	9.9999997	Kassel	KS	Hessen	HE	Germany	DE	36205
+350545056	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+16666783	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+71349174	53.5121582	-2.2437248	Greater Manchester	Gt Man			United Kingdom	GB	M8 9DQ
+148509906	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+52067611	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+31317700	36.1949274	-86.7417714	Davidson County	Davidson County	Tennessee	TN	United States	US	37206
+14795451	25.3286752771795	51.5206648277919			Doha	Doha	Qatar	QA	
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+746776554	14.5568853	121.023532			Metro Manila	NCR	Philippines	PH	
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+384276671	32.1170043	20.0669846			Banghazi	Banghazi	Libya	LY	
+70925516	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+72602987	26.1985768372673	-80.1723232624764	Broward County	Broward County	Florida	FL	United States	US	33309
+269940962	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+49666447	20.7272222	-155.9871222	Maui County	Maui County	Hawaii	HI	United States	US	96713
+49666447	20.7272222	-155.9871222	Maui County	Maui County	Hawaii	HI	United States	US	96713
+250331778	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+427947579	34.2935645943479	-111.664250444116	Yavapai County	Yavapai County	Arizona	AZ	United States	US	
+400067888	54.7026529241702	-3.27634313190921	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+130270905	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+437733216	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+78096917	38.3055899	-92.3551807	Miller County	Miller County	Missouri	MO	United States	US	65032
+25512074	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+58097071	44.2334142	-68.3194608	Hancock County	Hancock County	Maine	ME	United States	US	04679
+16475202	43.9388758616622	-120.562652517934	Crook County	Crook County	Oregon	OR	United States	US	97754
+437582919	40.3902270278473	-90.0022920113222	Fulton County	Fulton County	Illinois	IL	United States	US	61543
+247963674	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+42493231	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+316439748	45.4545404724892	9.15317773466374	Città Metropolitana di Milano	MI	Lombardia	Lombardia	Italy	IT	20146
+419986066	32.1170043	20.0669846			Banghazi	Banghazi	Libya	LY	
+246930965	49.1272656920498	-2.18674118789404			St Brelade	St Brelade	Jersey	JE	
+65886633	32.7898827557247	13.3369763535347			Tripoli	Tripoli	Libya	LY	
+16190478	37.16709795	-94.846424	Cherokee County	Cherokee County	Kansas	KS	United States	US	66725
+250331778	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+378963575	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+269940962	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+74939983	32.462024	-85.084944	Russell County	Russell County	Alabama	AL	United States	US	36869
+271657119	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+28178979	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+256886961	41.9902585817254	12.4546124839749	Città Metropolitana di Roma	RM	Lazio	Lazio	Italy	IT	00189
+814643982	-9.25993696738028	124.274677458073			Oecusse	Oecusse	Timor-Leste	TL	
+814643982	-9.25993696738028	124.274677458073			Oecusse	Oecusse	Timor-Leste	TL	
+16475202	43.9388758616622	-120.562652517934	Crook County	Crook County	Oregon	OR	United States	US	97754
+594977106	40.7608178	-111.8911983	Salt Lake County	Salt Lake County	Utah	UT	United States	US	84101
+267243203	33.6906612384048	-118.007011404647	Orange County	Orange County	California	CA	United States	US	92648
+207642548	43.1520122	-76.0610324	Onondaga County	Onondaga County	New York	NY	United States	US	13039
+44984172	34.2935645943479	-111.664250444116	Yavapai County	Yavapai County	Arizona	AZ	United States	US	
+334276226	42.3604823	-71.0595678	Suffolk County	Suffolk County	Massachusetts	MA	United States	US	02114
+319420349	40.5357743081709	-74.3694688730784	Middlesex County	Middlesex County	New Jersey	NJ	United States	US	08840
+23347946	25.8153500916817	-80.1366691586232	Miami-Dade County	Miami-Dade County	Florida	FL	United States	US	33140
+87472496	35.1863660696233	-111.617559214393	Coconino County	Coconino County	Arizona	AZ	United States	US	86004
+254510174	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+99140220	43.7229266605499	-79.3884344372254	Toronto Division	Toronto Division	Ontario	ON	Canada	CA	
+85181202	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+186300970	52.0553813	-2.7151735	Herefordshire	Herefordshire			United Kingdom	GB	HR1 2NB
+9320032	34.2646223300543	-93.4753627909943	Clark County	Clark County	Arkansas	AR	United States	US	71921
+53450278	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+18683964	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+56308041	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+622070509	35.5034156	-90.4537143	Poinsett County	Poinsett County	Arkansas	AR	United States	US	72365
+26918145	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+59461030	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+346873432	31.7201746889137	20.4618595975018			Al Hizam Al Akhdar	Al Hizam Al Akhdar	Libya	LY	
+589405202	26.2890044787096	50.109525156505			Eastern Province	Eastern Province	Saudi Arabia	SA	34472
+44537636	37.2469007653741	-119.622386616854	Madera County	Madera County	California	CA	United States	US	93645
+579254908	40.8966214099478	-77.8385798823649	Centre County	Centre County	Pennsylvania	PA	United States	US	16823
+93636932	28.5978559106602	77.1872945355962	New Delhi	New Delhi	Delhi	DL	India	IN	110021
+282245556	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+19199740	33.7630245218778	-84.4228731308239	Fulton County	Fulton County	Georgia	GA	United States	US	30314
+408677436	51.323067981267	10.3702858803256			Thüringen	Thüringen	Germany	DE	37351
+224071381	42.0867641	-71.4745055	Norfolk County	Norfolk County	Massachusetts	MA	United States	US	02019
+579254908	40.8966214099478	-77.8385798823649	Centre County	Centre County	Pennsylvania	PA	United States	US	16823
+58711646	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+98641618	34.0268325735064	-81.2070906700801	Lexington County	Lexington County	South Carolina	SC	United States	US	29072
+272251976	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+255371410	26.2276669543631	50.7029410584319			Muharraq Governorate	Muharraq Governorate	Bahrain	BH	
+561614307	57.3678928192086	-4.41061064138832	Highland	Highld			United Kingdom	GB	IV3 8LD
+192477353	53.5121582	-2.2437248	Greater Manchester	Gt Man			United Kingdom	GB	M8 9DQ
+97379585	54.7023545	-3.2765753	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+255371410	26.2276669543631	50.7029410584319			Muharraq Governorate	Muharraq Governorate	Bahrain	BH	
+161627772	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+34089686	39.5162234	-76.9382069	Carroll County	Carroll County	Maryland	MD	United States	US	21048
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+709703556	43.1898344538681	-96.1326737355398	Sioux County	Sioux County	Iowa	IA	United States	US	51239
+120117005	43.0408333	-76.1391667	Onondaga County	Onondaga County	New York	NY	United States	US	13210
+728591502	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+97379585	54.7023545	-3.2765753	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+284289942	37.7712036331132	-122.225000099691	Alameda County	Alameda County	California	CA	United States	US	94601
+189484297	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+246498459	39.9086032590092	-86.2750253303807	Marion County	Marion County	Indiana	IN	United States	US	46278
+16415170	33.141706	-117.1008656	San Diego County	San Diego County	California	CA	United States	US	92026
+75853781	32.7801052	-96.8000082	Dallas County	Dallas County	Texas	TX	United States	US	75202
+891582110	33.554480581039	-117.771239345701	Orange County	Orange County	California	CA	United States	US	92651
+47095259	33.7630245218778	-84.4228731308239	Fulton County	Fulton County	Georgia	GA	United States	US	30314
+251326118	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+189484297	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+839177100	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+36711022	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+17850787	28.3530796179195	-98.1261337591941	Live Oak County	Live Oak County	Texas	TX	United States	US	78022
+814556773	32.8955020661858	-116.991205172259	San Diego County	San Diego County	California	CA	United States	US	92071
+17712142	35.5595499269405	51.9021181763498			Tehran	Tehran	Iran	IR	
+176948724	30.12077	-97.6352784	Travis County	Travis County	Texas	TX	United States	US	78617
+251326118	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+63480496	45.5224507	-73.5912827	Communauté-Urbaine-de-Montréal	Communauté-Urbaine-de-Montréal	Québec	QC	Canada	CA	H2T 1G8
+553880367	25.7753464838061	-80.2098089934534	Miami-Dade County	Miami-Dade County	Florida	FL	United States	US	33128
+149877034	32.88979904	13.17299001			Tripoli	Tripoli	Libya	LY	
+106275367	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+16411361	40.58340662	-122.31286372	Shasta County	Shasta County	California	CA	United States	US	96003
+280914937	9.600036	7.999972			Kaduna	Kaduna	Nigeria	NG	
+322382076	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+90393961	44.873789591494	-85.7305392647706	Leelanau County	Leelanau County	Michigan	MI	United States	US	49621
+372968261	26.8234472	18.1236723			Al Jufrah	Al Jufrah	Libya	LY	
+812836951	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+25949952	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+239378332	19.8557561779443	145.313199870233					Northern Mariana Islands	MP	
+72646596	38.2544444	-76.9638889	Westmoreland County	Westmoreland County	Virginia	VA	United States	US	22443
+372968261	26.8234472	18.1236723			Al Jufrah	Al Jufrah	Libya	LY	
+83453988	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+22159062	43.1520122	-76.0610324	Onondaga County	Onondaga County	New York	NY	United States	US	13039
+57811254	39.0833850545721	-77.1552683701545	Montgomery County	Montgomery County	Maryland	MD	United States	US	20850
+83453988	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+319244422	53.4575797	-2.2266721	Greater Manchester	Gt Man			United Kingdom	GB	M14 5TB
+407017775	35.6787312	139.7678139			Tōkyō-to	Tōkyō-to	Japan	JP	103-0028
+276891481	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+26460275	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+839177100	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+839177100	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+53784036	32.6395776	-96.5382228	Dallas County	Dallas County	Texas	TX	United States	US	75159
+372968261	26.8234472	18.1236723			Al Jufrah	Al Jufrah	Libya	LY	
+243053646	32.7898827557247	13.3369763535347			Tripoli	Tripoli	Libya	LY	
+881095866	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+30023111	52.0799838	4.3113461	Den Haag	Den Haag	Zuid-Holland	ZH	Netherlands	NL	2513 AH
+83453988	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+342109221	-1.2832532	36.8172449			Nairobi	Nairobi	Kenya	KE	
+850624466	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+149877034	32.88979904	13.17299001			Tripoli	Tripoli	Libya	LY	
+342109221	-1.2832532	36.8172449			Nairobi	Nairobi	Kenya	KE	
+185061602	19.8557561779443	145.313199870233					Northern Mariana Islands	MP	
+753828398	-21.2104818868071	-47.8210910947191	Ribeirão Preto	Ribeirão Preto	São Paulo	SP	Brazil	BR	14026-240
+58711646	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+268458774	31.3446262	-95.0812254	Houston County	Houston County	Texas	TX	United States	US	75847
+482126731	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+499375329	41.631488	-72.459708	Hartford County	Hartford County	Connecticut	CT	United States	US	06447
+198394562	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+305529217	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+44727892	54.7026529241702	-3.27634313190921	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+58711646	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+422110465	32.7469748	-117.2118132	San Diego County	San Diego County	California	CA	United States	US	92110
+22373934	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+281527818	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+45519911	11.4169713345563	76.7079195561019	Nilgiris	Nilgiris	Tamil Nadu	TN	India	IN	643001
+58711646	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+274654731	39.7935978	-104.8334858	Denver County	Denver County	Colorado	CO	United States	US	80239
+57811254	39.0833850545721	-77.1552683701545	Montgomery County	Montgomery County	Maryland	MD	United States	US	20850
+352445450	55.7516147	37.6187089	gorod Moskva	g. Moskva	Moscow	Moscow	Russia	RU	
+244154581	64.1301819411297	25.733349859705					Finland	FI	86650
+37361306	43.7229266605499	-79.3884344372254	Toronto Division	Toronto Division	Ontario	ON	Canada	CA	
+167447123	33.6305145226374	-86.7149876156575	Jefferson County	Jefferson County	Alabama	AL	United States	US	35215
+197304859	45.5224507	-73.5912827	Communauté-Urbaine-de-Montréal	Communauté-Urbaine-de-Montréal	Québec	QC	Canada	CA	H2T 1G8
+558428367	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+93636932	28.5978559106602	77.1872945355962	New Delhi	New Delhi	Delhi	DL	India	IN	110021
+42010704	42.4250964	-71.066163	Middlesex County	Middlesex County	Massachusetts	MA	United States	US	02148
+117680799	30.4426315854984	-87.1884493857621	Escambia County	Escambia County	Florida	FL	United States	US	32503
+839177100	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+130270905	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+132563763	40.2635794156016	-89.231200715351	Logan County	Logan County	Illinois	IL	United States	US	61723
+274132729	51.0000003	9.9999997	Kassel	KS	Hessen	HE	Germany	DE	36205
+236978104	37.7644605273381	-122.411549351044	San Francisco County	San Francisco County	California	CA	United States	US	94110
+16923544	47.5912208974804	7.00029515724974	Territoire de Belfort	Territoire de Belfort	Franche-Comté	Franche-Comté	France	FR	90130
+839177100	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+127374158	51.0455535	-114.061503	Division No. 6	Division No. 6	Alberta	AB	Canada	CA	T2G 0K6
+21854543	45.9683703260571	4.24079381081365	Loire	Loire	Rhône-Alpes	RA	France	FR	42470
+190820595	55.7516147	37.6187089	gorod Moskva	g. Moskva	Moscow	Moscow	Russia	RU	
+220836472	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+130270905	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+189136065	31.9502444609637	-102.172474678785	Midland County	Midland County	Texas	TX	United States	US	79706
+267182511	35.5260111527082	-79.1308217932097	Lee County	Lee County	North Carolina	NC	United States	US	27330
+53224595	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+488017602	40.2253569	-82.6881395	Licking County	Licking County	Ohio	OH	United States	US	43013
+260883187	36.0971963	-115.1466753	Clark County	Clark County	Nevada	NV	United States	US	89119
+177182882	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+373322754	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+317936494	52.3681291480817	-4.10174044542051	Ceredigion	Ceredigion			United Kingdom	GB	SY23 4QQ
+16923544	47.5912208974804	7.00029515724974	Territoire de Belfort	Territoire de Belfort	Franche-Comté	Franche-Comté	France	FR	90130
+471816516	-1.2832532	36.8172449			Nairobi	Nairobi	Kenya	KE	
+149877034	32.88979904	13.17299001			Tripoli	Tripoli	Libya	LY	
+16411361	40.58340662	-122.31286372	Shasta County	Shasta County	California	CA	United States	US	96003
+13850422	-33.0546283163223	-71.5972182760701	Valparaiso	Valparaiso	Región de Valparaíso	Región de Valparaíso	Chile	CL	
+218657077	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+47495234	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+16261564	33.7630245218778	-84.4228731308239	Fulton County	Fulton County	Georgia	GA	United States	US	30314
+54784769	39.8777964398827	-87.0460784584771	Montgomery County	Montgomery County	Indiana	IN	United States	US	47989
+332282045	29.8666754519059	69.3071777126296	Kohlu	Kohlu	Balochistan	Balochistan	Pakistan	PK	
+42010704	42.4250964	-71.066163	Middlesex County	Middlesex County	Massachusetts	MA	United States	US	02148
+89533198	41.157069342718	28.843056055075	Eyüp	Eyüp	İstanbul	İstanbul	Turkey	TR	34076
+251814342	62.3431032404063	16.9018748755589			Västernorrlands län	Västernorrlands län	Sweden	SE	864 31
+408677436	51.323067981267	10.3702858803256			Thüringen	Thüringen	Germany	DE	37351
+388260402	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+893324046	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+132563763	40.2635794156016	-89.231200715351	Logan County	Logan County	Illinois	IL	United States	US	61723
+56076684	-34.1288876	18.4222173	Cape Town	Cape Town	Western Cape	WC	South Africa	ZA	7974
+149877034	32.85941691	13.193684			Tripoli	Tripoli	Libya	LY	
+350545056	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+779774431	32.068426	20.0594958			Banghazi	Banghazi	Libya	LY	
+44727892	54.7026529241702	-3.27634313190921	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+255006681	7.91733452715345	126.267074164232	Davao Oriental	Davao Oriental	Davao Region	Davao Region	Philippines	PH	
+361545187	27.9475216	-82.4584279	Hillsborough County	Hillsborough County	Florida	FL	United States	US	33602
+99558084	38.7442175	-90.3053915	St. Louis County	St Louis County	Missouri	MO	United States	US	63135
+22822556	48.1527300468438	-123.676638108944	Clallam County	Clallam County	Washington	WA	United States	US	98363
+44727892	54.7026529241702	-3.27634313190921	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+352936692	54.6255150828857	-6.44733702516467	Antrim	Antrim			United Kingdom	GB	BT41 3LY
+328651328	55.6521547380836	-3.19291327181452	Scottish Borders	Scottish Borders			United Kingdom	GB	EH45 8HU
+294523668	50.780465	4.6274939	Vlaams-Brabant	VB	Vlaanderen	Vlaanderen	Belgium	BE	3040
+360955773	48.2313148795286	-114.267719889034	Flathead County	Flathead County	Montana	MT	United States	US	59901
+5781452	29.744898398756	-81.5868456013694	Putnam County	Putnam County	Florida	FL	United States	US	32177
+245476444	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+839177100	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+132722100	34.117008367338	-83.9931374188794	Gwinnett County	Gwinnett County	Georgia	GA	United States	US	30518
+40099231	34.9531295	-120.4358577	Santa Barbara County	Santa Barbara County	California	CA	United States	US	93458
+22253744	38.9277137720332	-76.7377058430724	Prince George's County	Prince George's County	Maryland	MD	United States	US	20716
+541078785	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+344626195	42.7809542779504	-96.1742839907129	Plymouth County	Plymouth County	Iowa	IA	United States	US	51031
+493039747	35.942853838052	14.3766367104192					Malta	MT	
+493039747	35.942853838052	14.3766367104192					Malta	MT	
+749250326	33.7490987	-84.3901849	Fulton County	Fulton County	Georgia	GA	United States	US	30303
+517764409	10.5791875	-83.5253956	Cantón de Pococí	Cantón de Pococí	Limón	Limón	Costa Rica	CR	
+274132729	51.0000003	9.9999997	Kassel	KS	Hessen	HE	Germany	DE	36205
+83686103	43.8955202	-91.3430966	Winona County	Winona County	Minnesota	MN	United States	US	55947
+83686103	43.8955202	-91.3430966	Winona County	Winona County	Minnesota	MN	United States	US	55947
+51100542	30.0488185	31.2436663	Abdeen	Abdeen	Cairo Governorate	Cairo Governorate	Egypt	EG	
+347910999	43.0913350478874	-87.8866521236332	Milwaukee County	Milwaukee County	Wisconsin	WI	United States	US	53211
+281798145	50.8465142	4.351733			Bruxelles	Bruxelles	Belgium	BE	1000
+456193667	26.2276669543631	50.7029410584319			Muharraq Governorate	Muharraq Governorate	Bahrain	BH	
+252769682	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+149877034	32.85941691	13.193684			Tripoli	Tripoli	Libya	LY	
+20914330	40.8006567	-73.7284647	Nassau County	Nassau County	New York	NY	United States	US	11023
+175161979	5.87991076945521	-74.9770267766855	San Francisco	San Francisco	Antioquia	Antioquia	Colombia	CO	054818
+490262688	32.757598	12.5726208			Sabratha Wa Surman	Sabratha Wa Surman	Libya	LY	
+55939730	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+226150906	33.899327	35.4690289	Beirut	Beirut	Beirut	Beirut	Lebanon	LB	
+215751570	40.6501038	-73.9495823	Kings County	Kings County	New York	NY	United States	US	11226
+562276885	41.0886156933281	-85.1431618852019	Allen County	Allen County	Indiana	IN	United States	US	46808
+356116514	35.7470095026886	-83.9783643613058	Blount County	Blount County	Tennessee	TN	United States	US	37803
+742917781	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+30489994	42.9119611567028	-87.8626546980281	Milwaukee County	Milwaukee County	Wisconsin	WI	United States	US	53172
+17060020	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+19416649	38.9581361293476	-76.5110320972579	Anne Arundel County	Anne Arundel County	Maryland	MD	United States	US	21403
+140641561	33.6087904530243	-117.863362323371	Orange County	Orange County	California	CA	United States	US	92625
+47376165	40.7133334	-73.9790668	New York County	New York County	New York	NY	United States	US	10002
+185022977	41.4792769817251	-81.6802348293778	Cuyahoga County	Cuyahoga County	Ohio	OH	United States	US	44113
+509294892	34.2935645943479	-111.664250444116	Yavapai County	Yavapai County	Arizona	AZ	United States	US	
+75192779	36.1356295469456	-97.3646768454233	Logan County	Logan County	Oklahoma	OK	United States	US	73073
+265230397	41.9586829623023	-77.4375626514351	Tioga County	Tioga County	Pennsylvania	PA	United States	US	16928
+151859708	43.2099760575458	5.43602088577342	Bouches-du-Rhône	Bouches-du-Rhône	Provence-Alpes-Côte d'Azur	PACA	France	FR	13009
+742726076	19.7306278	-156.0451016	Hawaii County	Hawaii County	Hawaii	HI	United States	US	96740
+773685481	42.7077891006143	-78.0315621393378	Wyoming County	Wyoming County	New York	NY	United States	US	14530
+351810682	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+18007614	33.7030845691556	-117.761109254639	Orange County	Orange County	California	CA	United States	US	92620
+20339983	37.5893647791794	-122.36297407195	San Mateo County	San Mateo County	California	CA	United States	US	94010
+26413795	33.4709714	-81.9748429	Richmond County	Richmond County	Georgia	GA	United States	US	30901
+278164663	24.4747962	54.3705761			Abu Dhabi	Abu Dhabi	United Arab Emirates	AE	
+8346812	35.9940329	-78.898619	Durham County	Durham County	North Carolina	NC	United States	US	27701
+389236289	40.2635794156016	-89.231200715351	Logan County	Logan County	Illinois	IL	United States	US	61723
+82101281	33.899327	35.4690289	Beirut	Beirut	Beirut	Beirut	Lebanon	LB	
+394153759	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+60112380	42.6664880908891	-73.7984448223781	Albany County	Albany County	New York	NY	United States	US	12203
+122427926	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+55425945	28.5421175	-81.3790462	Orange County	Orange County	Florida	FL	United States	US	32801
+630211456	17.4204444461272	9.4004088676096	Tchirozerine	Tchirozerine	Agadez	Agadez	Niger	NE	
+17426089	35.5939325	-105.2238969	San Miguel County	San Miguel County	New Mexico	NM	United States	US	87701
+796100784	42.2900228	-87.903406	Lake County	Lake County	Illinois	IL	United States	US	60048
+133113981	34.0986282	-118.3261719	Los Angeles County	Los Angeles County	California	CA	United States	US	90028
+192477353	53.5121582	-2.2437248	Greater Manchester	Gt Man			United Kingdom	GB	M8 9DQ
+192477353	53.5121582	-2.2437248	Greater Manchester	Gt Man			United Kingdom	GB	M8 9DQ
+200636280	8.44841416901994	-80.1587347062957	Antón	Antón	Coclé	Coclé	Panama	PA	
+192477353	53.5121582	-2.2437248	Greater Manchester	Gt Man			United Kingdom	GB	M8 9DQ
+100597465	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+32260931	39.9086032590092	-86.2750253303807	Marion County	Marion County	Indiana	IN	United States	US	46278
+296509359	32.2217429	-110.926479	Pima County	Pima County	Arizona	AZ	United States	US	85716
+338989094	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+821403404	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+28875977	33.669781	-117.9043161	Orange County	Orange County	California	CA	United States	US	92626
+28695649	32.7888347881421	-86.828827547511	Chilton County	Chilton County	Alabama	AL	United States	US	36750
+80791048	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+829558728	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+28006508	-34.69192925	138.58751835			South Australia	SA	Australia	AU	
+19090188	59.5062543795731	10.2285707944524	Holmestrand	Holmestrand	Vestfold	Vestfold	Norway	NO	3080
+339760532	-35.4891187	-62.9756965	Rivadavia	Rivadavia	Buenos Aires	Buenos Aires	Argentina	AR	
+587086805	44.2540713485508	-68.2719833040346	Hancock County	Hancock County	Maine	ME	United States	US	04679
+216845778	38.56098432418	-121.257679208419	Sacramento County	Sacramento County	California	CA	United States	US	95655
+18728732	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+146992127	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+403759152	40.6014555	-79.7597709	Allegheny County	Allegheny County	Pennsylvania	PA	United States	US	15084
+317372917	46.1027468	7.0725673	Martigny	Martigny	Valais	VS	Switzerland	CH	1920
+619238474	38.9137226	-77.0494216			District of Columbia	DC	United States	US	20008
+728591502	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+21670225	43.2314015427296	-76.2960242859431	Oswego County	Oswego County	New York	NY	United States	US	13135
+101826663	32.7898836389815	13.3369786964228			Tripoli	Tripoli	Libya	LY	
+261643463	33.8750635	35.843409	Zahlé	Zahlé	Bekaa	Bekaa	Lebanon	LB	
+27917311	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+237933043	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+73490800	46.5407419725633	-102.867010725628	Hettinger County	Hettinger County	North Dakota	ND	United States	US	58647
+313799444	62.3598337860776	-149.069851665813	Matanuska-Susitna	Matanuska-Susitna	Alaska	AK	United States	US	
+146992127	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+858167538	39.9860042309952	-82.9849910137012	Franklin County	Franklin County	Ohio	OH	United States	US	43201
+314281034	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+53229950	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+456193667	26.2276669543631	50.7029410584319			Muharraq Governorate	Muharraq Governorate	Bahrain	BH	
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+198075393	40.8966214099478	-77.8385798823649	Centre County	Centre County	Pennsylvania	PA	United States	US	16823
+31305822	38.7298181270699	-90.1260310233037	Madison County	Madison County	Illinois	IL	United States	US	62040
+365591244	53.4575797	-2.2266721	Greater Manchester	Gt Man			United Kingdom	GB	M14 5TB
+363042690	52.3681469301842	-4.10181564865493	Ceredigion	Ceredigion			United Kingdom	GB	SY23 4QQ
+216865107	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+21835987	35.583503383032	-97.5084653505946	Oklahoma County	Oklahoma County	Oklahoma	OK	United States	US	73114
+949641	15.1320893	-90.2895789			Baja Verapaz	Baja Verapaz	Guatemala	GT	
+390731357	29.8755773741943	69.319536881023	Kohlu	Kohlu	Balochistan	Balochistan	Pakistan	PK	
+247438302	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+47851885	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+265376535	30.0488185	31.2436663	Abdeen	Abdeen	Cairo Governorate	Cairo Governorate	Egypt	EG	
+109854452	41.44577127574	-74.4228449552119	Orange County	Orange County	New York	NY	United States	US	10940
+306872064	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+59912234	34.46508895	-117.505971	San Bernardino County	San Bernardino County	California	CA	United States	US	92371
+794161836	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+44502354	40.6637996645291	-73.9381405944442	Kings County	Kings County	New York	NY	United States	US	11213
+100473246	51.323067981267	10.3702858803256			Thüringen	Thüringen	Germany	DE	37351
+444260704	43.7229266605499	-79.3884344372254	Toronto Division	Toronto Division	Ontario	ON	Canada	CA	
+18065469	42.9419592987041	-74.1906333396683	Montgomery County	Montgomery County	New York	NY	United States	US	12010
+281520735	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+281520735	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+281520735	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+281527818	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+281527818	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+245059632	52.5014907949381	13.4023284264194			Berlin	Berlin	Germany	DE	10969
+27000730	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+405851017	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+91220516	48.8566222307003	2.34286499353072	Paris	Paris	Île-de-France	IDF	France	FR	75001
+462360838	32.7898836389815	13.3369786964228			Tripoli	Tripoli	Libya	LY	
+302134948	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+47851885	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+58711646	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+29584150	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+25504976	37.5125328842847	-78.7842249504687	Appomattox County	Appomattox County	Virginia	VA	United States	US	24553
+298625543	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+352090345	55	-114.9999999	Division No. 17	Division No. 17	Alberta	AB	Canada	CA	T0G 2A0
+49464307	24.8741634	67.0317972	Karachi District	Karachi District	Sindh	Sindh	Pakistan	PK	
+58711646	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+253749392	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+60708604	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+42970367	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+887594605	43.9025136	-85.7120013	Lake County	Lake County	Michigan	MI	United States	US	49623
+321335111	43.2099760575458	5.43602088577342	Bouches-du-Rhône	Bouches-du-Rhône	Provence-Alpes-Côte d'Azur	PACA	France	FR	13009
+74939983	32.462024	-85.084944	Russell County	Russell County	Alabama	AL	United States	US	36869
+30023111	52.0799838	4.3113461	Den Haag	Den Haag	Zuid-Holland	ZH	Netherlands	NL	2513 AH
+198752831	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+494140744	36.1949274	-86.7417714	Davidson County	Davidson County	Tennessee	TN	United States	US	37206
+634586907	22.5581396310953	79.5129424227077	Seoni	Seoni	Madhya Pradesh	MP	India	IN	480887
+22963639	40.1317460972231	-74.6560445955786	Burlington County	Burlington County	New Jersey	NJ	United States	US	08515
+887678408	42.1014831	-72.589811	Hampden County	Hampden County	Massachusetts	MA	United States	US	01103
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+22963639	40.1317460972231	-74.6560445955786	Burlington County	Burlington County	New Jersey	NJ	United States	US	08515
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+183958809	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+35677627	35.104502535807	-89.9793662815246	Shelby County	Shelby County	Tennessee	TN	United States	US	38114
+70244163	33.2588817	-86.8295337	Shelby County	Shelby County	Alabama	AL	United States	US	35007
+59912234	34.46508895	-117.505971	San Bernardino County	San Bernardino County	California	CA	United States	US	92371
+17112878	-33.0546283163223	-71.5972182760701	Valparaiso	Valparaiso	Región de Valparaíso	Región de Valparaíso	Chile	CL	
+455443791	39.9656575007997	-75.1810381230057	Philadelphia County	Philadelphia County	Pennsylvania	PA	United States	US	19130
+290670846	28.5421175	-81.3790462	Orange County	Orange County	Florida	FL	United States	US	32801
+26766355	29.6313486	-96.0651362	Austin County	Austin County	Texas	TX	United States	US	77485
+361342191	40.6637996645291	-73.9381405944442	Kings County	Kings County	New York	NY	United States	US	11213
+125708349	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+119432979	35.1045023747076	-89.9793660994088	Shelby County	Shelby County	Tennessee	TN	United States	US	38114
+703497684	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+106826101	41.395059829161	2.0494413761056	Barcelona	B	Catalunya	CT	Spain	ES	08980
+819896048	50.0725453073396	-85.8302326472676			Ontario	ON	Canada	CA	P0T 1J0
+760882452	34.2660875489735	-119.256285092001	Ventura County	Ventura County	California	CA	United States	US	93003
+539342970	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+32881741	35.4918204714283	-80.9766099278456	Lincoln County	Lincoln County	North Carolina	NC	United States	US	28037
+403759152	40.6014555	-79.7597709	Allegheny County	Allegheny County	Pennsylvania	PA	United States	US	15084
+20146800	40.0079390043574	-104.817170308458	Weld County	Weld County	Colorado	CO	United States	US	80603
+592151472	51.7681389338245	-0.236793206801447	Hertfordshire	Hertfordshire			United Kingdom	GB	AL10 9TL
+30023111	52.0799838	4.3113461	Den Haag	Den Haag	Zuid-Holland	ZH	Netherlands	NL	2513 AH
+385700614	35.5260111527082	-79.1308217932097	Lee County	Lee County	North Carolina	NC	United States	US	27330
+135646908	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+361835589	26.8693745	78.5930649	Agra	Agra	Uttar Pradesh	UP	India	IN	283104
+27784379	4.09732988559176	-75.5949530126025	Roncesvalles	Roncesvalles	Tolima	Tolima	Colombia	CO	735557
+130996903	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+38463287	40.0757384	-74.4041622	Ocean County	Ocean County	New Jersey	NJ	United States	US	08527
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+169681526	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+282211632	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+22253744	38.9277137720332	-76.7377058430724	Prince George's County	Prince George's County	Maryland	MD	United States	US	20716
+582140844	40.2224755826074	-75.3998227152858	Montgomery County	Montgomery County	Pennsylvania	PA	United States	US	19474
+105604209	31.9502444609637	-102.172474678785	Midland County	Midland County	Texas	TX	United States	US	79706
+456641301	41.8933941	12.482909	Città Metropolitana di Roma	RM	Lazio	Lazio	Italy	IT	00186
+817269902	38.8666381064203	-76.9897904637991			District of Columbia	DC	United States	US	20020
+175458688	-35.4208140908279	-65.1122884248865			San Luis	San Luis	Argentina	AR	
+203188066	43.4113418161054	-106.277079251711	Natrona County	Natrona County	Wyoming	WY	United States	US	82643
+24382424	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+399520641	39.9669605	-84.2099951	Miami County	Miami County	Ohio	OH	United States	US	45371
+30023111	52.0799838	4.3113461	Den Haag	Den Haag	Zuid-Holland	ZH	Netherlands	NL	2513 AH
+85181202	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+85181202	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+16123223	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+74939983	32.462024	-85.084944	Russell County	Russell County	Alabama	AL	United States	US	36869
+125671954	54.7026529241702	-3.27634313190921	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+817269902	38.8666381064203	-76.9897904637991			District of Columbia	DC	United States	US	20020
+26632935	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+336376208	34.1507680763657	-118.761010308306	Los Angeles County	Los Angeles County	California	CA	United States	US	91301
+39313228	39.0361288978714	-95.6954084769579	Shawnee County	Shawnee County	Kansas	KS	United States	US	66604
+817269902	38.8666381064203	-76.9897904637991			District of Columbia	DC	United States	US	20020
+302817075	54.7026529241702	-3.27634313190921	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+462420179	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+462420179	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+71690954	29.6313486	-96.0651362	Austin County	Austin County	Texas	TX	United States	US	77485
+499592627	34.2338003271383	-102.409175877629	Lamb County	Lamb County	Texas	TX	United States	US	79031
+817269902	38.8666381064203	-76.9897904637991			District of Columbia	DC	United States	US	20020
+197063540	37.8857582	-122.1180201	Contra Costa County	Contra Costa County	California	CA	United States	US	94549
+388986101	14.6453550986901	121.110252135828	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1807
+139584761	10.211981262717	-67.9894563987671	Municipio Autónomo Valencia	Municipio Autónomo Valencia	Carabobo	Carabobo	Venezuela	VE	2001
+243053646	32.7898827557247	13.3369763535347			Tripoli	Tripoli	Libya	LY	
+291794825	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+21442619	52.3744779	9.7385532			Niedersachsen	NDS	Germany	DE	30159
+517212934	42.3956	-82.9484	Wayne County	Wayne County	Michigan	MI	United States	US	48224
+33240098	40.3519297	-102.8513197	Washington County	Washington County	Colorado	CO	United States	US	80743
+17710543	31.8084217498944	-116.606711418419	Ensenada Municipality	Ensenada Municipality	Baja California	B.C.	Mexico	MX	22890
+94165248	38.4100020565869	-82.5283883472946	Lawrence County	Lawrence County	Ohio	OH	United States	US	45680
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+16377693	-21.3018599	165.4878868	Houaïlou	Houaïlou	Province Nord	Province Nord	New Caledonia	NC	
+24524057	35.6705316988542	-105.968603103232	Santa Fe County	Santa Fe County	New Mexico	NM	United States	US	87505
+39327538	40.5475968	-75.561297	Lehigh County	Lehigh County	Pennsylvania	PA	United States	US	18046
+318676945	38.3316297408394	-85.7023797004907	Clark County	Clark County	Indiana	IN	United States	US	47130
+877451520	33.1999642446838	-117.245761684749	San Diego County	San Diego County	California	CA	United States	US	92083
+97379585	54.7023545	-3.2765753	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+201981312	47.6195896809194	-122.351426321132	King County	King County	Washington	WA	United States	US	98109
+44611134	-4.7993352	114.5632028					Indonesia	ID	
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+239154848	43.2099760575458	5.43602088577342	Bouches-du-Rhône	Bouches-du-Rhône	Provence-Alpes-Côte d'Azur	PACA	France	FR	13009
+18011486	29.8575373614321	-95.3936424883805	Harris County	Harris County	Texas	TX	United States	US	77076
+93203347	35.7470095026886	-83.9783643613058	Blount County	Blount County	Tennessee	TN	United States	US	37803
+51268700	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+228189745	37.0259038830179	-107.877622502258	La Plata County	La Plata County	Colorado	CO	United States	US	81303
+325294712	43.4113418161054	-106.277079251711	Natrona County	Natrona County	Wyoming	WY	United States	US	82643
+19691570	37.2469007653741	-119.622386616854	Madera County	Madera County	California	CA	United States	US	93645
+352486322	54.7026529241702	-3.27634313190921	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+474557496	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+190820595	55.7516147	37.6187089	gorod Moskva	g. Moskva	Moscow	Moscow	Russia	RU	
+40808671	44.9323441143124	-88.7345478176377	Shawano County	Shawano County	Wisconsin	WI	United States	US	54128
+20336516	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+74939983	32.462024	-85.084944	Russell County	Russell County	Alabama	AL	United States	US	36869
+21598830	39.3564841832358	-116.655383156333	Lander County	Lander County	Nevada	NV	United States	US	
+449056680	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+263484216	40.936417	-73.8991101428571	Westchester County	Westchester County	New York	NY	United States	US	10701
+16449015	26.7183607069805	29.9154370700103	Qesm Al Wahat Ad Dakhlah	Qesm Al Wahat Ad Dakhlah	New Valley Governorate	New Valley Governorate	Egypt	EG	
+544152740	-0.3666	35.2833			Kericho County	Kericho County	Kenya	KE	
+125128428	34.2935645943479	-111.664250444116	Yavapai County	Yavapai County	Arizona	AZ	United States	US	
+27653089	51.7681389338245	-0.236793206801447	Hertfordshire	Hertfordshire			United Kingdom	GB	AL10 9TL
+27277336	31.9502444609637	-102.172474678785	Midland County	Midland County	Texas	TX	United States	US	79706
+318722233	38.8556681	-77.0601552	Arlington County	Arlington County	Virginia	VA	United States	US	22202
+142117632	32.7715227	-89.1167275	Neshoba County	Neshoba County	Mississippi	MS	United States	US	39350
+211337042	40.9251820448963	-82.0558590419221	Wayne County	Wayne County	Ohio	OH	United States	US	44287
+89882509	28.0567865405951	-81.9524033071476	Polk County	Polk County	Florida	FL	United States	US	33805
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+52589864	45.5224507	-73.5912827	Communauté-Urbaine-de-Montréal	Communauté-Urbaine-de-Montréal	Québec	QC	Canada	CA	H2T 1G8
+211337042	40.9251820448963	-82.0558590419221	Wayne County	Wayne County	Ohio	OH	United States	US	44287
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+136173938	47.6765073	-122.3862233	King County	King County	Washington	WA	United States	US	98117
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+208147811	55.9538125	-3.1881474	Edinburgh	Edinburgh			United Kingdom	GB	
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+316337192	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+316337192	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+354590277	32.9022182638911	-93.7046428336473	Bossier Parish	Bossier Parish	Louisiana	LA	United States	US	71064
+316337192	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+342022859	-9.25993696738028	124.274677458073			Oecusse	Oecusse	Timor-Leste	TL	
+23202327	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+100580030	27.6886419	-82.5723193	Manatee County	Manatee County	Florida	FL	United States	US	34221
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+196292489	46.9700597145559	-124.152016041768	Grays Harbor County	Grays Harbor County	Washington	WA	United States	US	98569
+100580030	27.6886419	-82.5723193	Manatee County	Manatee County	Florida	FL	United States	US	34221
+334859362	47.3752671	-109.6387579	Fergus County	Fergus County	Montana	MT	United States	US	59457
+755182140	43.1898344538681	-96.1326737355398	Sioux County	Sioux County	Iowa	IA	United States	US	51239
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+861327578	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+725923399	35.7811149782033	-78.81406990273	Wake County	Wake County	North Carolina	NC	United States	US	27513
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+262645734	47.6195896809194	-122.351426321132	King County	King County	Washington	WA	United States	US	98109
+449008775	38.5815719	-121.4943996	Sacramento County	Sacramento County	California	CA	United States	US	95814
+372350619	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+25471311	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+339034131	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+243291022	51.7681389338245	-0.236793206801447	Hertfordshire	Hertfordshire			United Kingdom	GB	AL10 9TL
+36033897	34.0659329	-84.6768796	Cobb County	Cobb County	Georgia	GA	United States	US	30101
+19250737	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+121558981	51.38266207	-0.15472903	Greater London	Gt Lon			United Kingdom	GB	SM6 7FJ
+27174725	40.7816341881981	-119.211649490516	Pershing County	Pershing County	Nevada	NV	United States	US	
+75440541	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+534883549	40.0706231	-82.1756986	Muskingum County	Muskingum County	Ohio	OH	United States	US	43830
+503198165	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+35765068	33.7630245218778	-84.4228731308239	Fulton County	Fulton County	Georgia	GA	United States	US	30314
+164971215	44.2093726475819	-77.9088701768281	Northumberland County	Northumberland County	Ontario	ON	Canada	CA	K0K 3K0
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+414465148	31.2984758	120.622239			Jiangsu Sheng	Jiangsu Sheng	China	CN	215000
+49190063	37.5125328842847	-78.7842249504687	Appomattox County	Appomattox County	Virginia	VA	United States	US	24553
+40039232	49.2500011	-122.9500111	Greater Vancouver	Greater Vancouver	British Columbia	BC	Canada	CA	
+14707322	26.7470938540068	-80.1317885471376	Palm Beach County	Palm Beach County	Florida	FL	United States	US	33417
+29234279	43.7229266605499	-79.3884344372254	Toronto Division	Toronto Division	Ontario	ON	Canada	CA	
+536503190	40.0757384	-74.4041622	Ocean County	Ocean County	New Jersey	NJ	United States	US	08527
+19328644	50.7309796	-3.5226011	Devon	Devon			United Kingdom	GB	EX4 6QF
+817269902	38.8666381064203	-76.9897904637991			District of Columbia	DC	United States	US	20020
+16050807	40.2635794156016	-89.231200715351	Logan County	Logan County	Illinois	IL	United States	US	61723
+273071294	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+561671409	42.253068533117	-71.7971827014699	Worcester County	Worcester County	Massachusetts	MA	United States	US	01610
+824761309	44.059482	-123.1227085	Lane County	Lane County	Oregon	OR	United States	US	97402
+43182702	34.2935645943479	-111.664250444116	Yavapai County	Yavapai County	Arizona	AZ	United States	US	
+833585000	18.9863599851194	72.839707691741	Mumbai	Mumbai	Maharashtra	MH	India	IN	400033
+817269902	38.8666381064203	-76.9897904637991			District of Columbia	DC	United States	US	20020
+411765271	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+24848469	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+21967840	30.5881207783496	-96.295321731974	Brazos County	Brazos County	Texas	TX	United States	US	77845
+18244428	41.4792769817251	-81.6802348293778	Cuyahoga County	Cuyahoga County	Ohio	OH	United States	US	44113
+380526984	36.4993007	-80.6072859	Surry County	Surry County	North Carolina	NC	United States	US	27030
+23272248	40.414375588896	-82.7103325006327	Morrow County	Morrow County	Ohio	OH	United States	US	43334
+35623382	53.1909001344565	-6.81883199716612	Kildare	Kildare	Kildare	Kildare	Ireland	IE	
+75386439	36.1949274	-86.7417714	Davidson County	Davidson County	Tennessee	TN	United States	US	37206
+18856444	49.2025864373207	3.54805796409424	Aisne	Aisne	Picardie	Picardie	France	FR	02130
+242249661	19.3730233	-81.270738			North Side	North Side	Cayman Islands	KY	
+97782957	45.6358634566841	-122.600221698704	Clark County	Clark County	Washington	WA	United States	US	98661
+73717434	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+23169161	35.4058399035053	-80.8749159460957	Mecklenburg County	Mecklenburg County	North Carolina	NC	United States	US	28078
+791348317	29.9742836666667	-95.5266746666667	Harris County	Harris County	Texas	TX	United States	US	77069
+310401449	40.1317460972231	-74.6560445955786	Burlington County	Burlington County	New Jersey	NJ	United States	US	08515
+211216670	34.1235066218039	-118.258901104574	Los Angeles County	Los Angeles County	California	CA	United States	US	91204
+16169593	48.2161962	16.3662881			Wien	Wien	Austria	AT	1010
+69503087	37.1933966634309	-100.851306076475	Seward County	Seward County	Kansas	KS	United States	US	67901
+336076027	34.3381013	35.8058352	Koura	Koura	North	North	Lebanon	LB	
+132722100	34.117008367338	-83.9931374188794	Gwinnett County	Gwinnett County	Georgia	GA	United States	US	30518
+21567214	42.2111479283453	43.3079197535714			Imereti	Imereti	Georgia	GE	
+83696620	32.0392198559498	-81.1688879370436	Chatham County	Chatham County	Georgia	GA	United States	US	31405
+29799419	-21.3018599	165.4878868	Houaïlou	Houaïlou	Province Nord	Province Nord	New Caledonia	NC	
+16067592	52.4813678	-1.8980725	West Midlands	West Mids			United Kingdom	GB	
+55270154	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+496087573	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+200134659	40.6017707	-74.2047668	Union County	Union County	New Jersey	NJ	United States	US	07036
+310305873	41.4792769817251	-81.6802348293778	Cuyahoga County	Cuyahoga County	Ohio	OH	United States	US	44113
+17675917	41.6207917723668	-72.7252789954007	Hartford County	Hartford County	Connecticut	CT	United States	US	06037
+874342946	29.8755773741943	69.319536881023	Kohlu	Kohlu	Balochistan	Balochistan	Pakistan	PK	
+222861547	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+406695530	44.4308975	-89.6884637	Portage County	Portage County	Wisconsin	WI	United States	US	54494
+338768978	40.8966214099478	-77.8385798823649	Centre County	Centre County	Pennsylvania	PA	United States	US	16823
+22253744	38.9277137720332	-76.7377058430724	Prince George's County	Prince George's County	Maryland	MD	United States	US	20716
+25985212	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+19141379	35.6006041220685	-105.220351403678	San Miguel County	San Miguel County	New Mexico	NM	United States	US	87701
+164788787	27.7600632199572	-98.239319535078	Duval County	Duval County	Texas	TX	United States	US	78384
+100147898	26.2191995021352	-98.2446791592708	Hidalgo County	Hidalgo County	Texas	TX	United States	US	78501
+582362420	27.7463347329237	-82.7099774508057	Pinellas County	Pinellas County	Florida	FL	United States	US	33707
+305163986	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+29535130	30.4380832	-84.2809332	Leon County	Leon County	Florida	FL	United States	US	32301
+85330810	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+18621103	33.919218336079	-117.873055411777	Orange County	Orange County	California	CA	United States	US	92821
+368793771	61.576921268227	-149.465345575795	Matanuska-Susitna	Matanuska-Susitna	Alaska	AK	United States	US	99654
+90515250	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+276747992	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+544072065	39.3237378620219	-111.678210258026	Sanpete County	Sanpete County	Utah	UT	United States	US	84642
+24966943	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+24966943	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+250366944	40.0849679585867	-74.8082255582865	Burlington County	Burlington County	New Jersey	NJ	United States	US	08016
+353400460	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+38122533	49.5915624	-98.0027174	Division No. 3	Division No. 3	Manitoba	MB	Canada	CA	R0G 0J0
+309378220	36.421939056723	104.23021048796			Gansu Sheng	Gansu Sheng	China	CN	
+561671409	42.253068533117	-71.7971827014699	Worcester County	Worcester County	Massachusetts	MA	United States	US	01610
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+324747611	34.5963061	-117.3817356	San Bernardino County	San Bernardino County	California	CA	United States	US	92394
+449106073	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+823883664	31.8160381	-99.5120986	Coleman County	Coleman County	Texas	TX	United States	US	76834
+18603169	30.2488147	-88.0748987	Mobile County	Mobile County	Alabama	AL	United States	US	36528
+28091521	-22.2653097061408	-48.7284587017124	Itapuí	Itapuí	São Paulo	SP	Brazil	BR	17230-000
+23101159	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+30966902	35.8221492581122	-95.6818639172519	Muskogee County	Muskogee County	Oklahoma	OK	United States	US	74436
+81011993	-34.69192925	138.58751835			South Australia	SA	Australia	AU	
+31622085	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+247438302	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+360157542	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+610094474	33.919218336079	-117.873055411777	Orange County	Orange County	California	CA	United States	US	92821
+237553865	40.8329972433544	-74.2433774691729	Essex County	Essex County	New Jersey	NJ	United States	US	07044
+17766973	38.7604815	-92.5617875	Moniteau County	Moniteau County	Missouri	MO	United States	US	65046
+19458455	45.2611	-93.45	Anoka County	Anoka County	Minnesota	MN	United States	US	55303
+24966943	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+428722608	35.583503383032	-97.5084653505946	Oklahoma County	Oklahoma County	Oklahoma	OK	United States	US	73114
+104364289	32.7801052	-96.8000082	Dallas County	Dallas County	Texas	TX	United States	US	75202
+149176446	39.2370985595561	-84.4329435329209	Hamilton County	Hamilton County	Ohio	OH	United States	US	45215
+279831463	36.839862	-76.2989285			Virginia	VA	United States	US	23704
+14567747	37.2387577	-76.5096706	York County	York County	Virginia	VA	United States	US	23690
+854992056	28.5421175	-81.3790462	Orange County	Orange County	Florida	FL	United States	US	32801
+22456355	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+26936449	26.7056206	-80.0364297	Palm Beach County	Palm Beach County	Florida	FL	United States	US	33480
+81988652	-33.4519749	-70.73601855	Santiago	Santiago	Región Metropolitana	Región Metropolitana	Chile	CL	
+262970910	37.2409857	-78.4594395	Prince Edward County	Prince Edward County	Virginia	VA	United States	US	23901
+114009456	39.7935978	-104.8334858	Denver County	Denver County	Colorado	CO	United States	US	80239
+274196461	36.0728557418275	-94.1651618945681	Washington County	Washington County	Arkansas	AR	United States	US	72701
+258590217	-21.3018599	165.4878868	Houaïlou	Houaïlou	Province Nord	Province Nord	New Caledonia	NC	
+283776126	40.7199444117969	-73.9196876239244	Queens County	Queens County	New York	NY	United States	US	11378
+28030540	40.499925	-74.455129	Middlesex County	Middlesex County	New Jersey	NJ	United States	US	08901
+18962674	25.7753464838061	-80.2098089934534	Miami-Dade County	Miami-Dade County	Florida	FL	United States	US	33128
+125273634	29.9833182125878	-95.332719723864	Harris County	Harris County	Texas	TX	United States	US	77032
+17651606	39.75964711	-77.57474286	Franklin County	Franklin County	Pennsylvania	PA	United States	US	17268
+856600435	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+255719072	39.9860051164966	-82.9849931607459	Franklin County	Franklin County	Ohio	OH	United States	US	43201
+22371600	7.91733452715345	126.267074164232	Davao Oriental	Davao Oriental	Davao Region	Davao Region	Philippines	PH	
+222861547	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+27169925	26.0336331657149	-80.1486615202097	Broward County	Broward County	Florida	FL	United States	US	33020
+88078856	-35.4891187	-62.9756965	Rivadavia	Rivadavia	Buenos Aires	Buenos Aires	Argentina	AR	
+38521731	31.1022820067037	-97.3786891436982	Bell County	Bell County	Texas	TX	United States	US	76504
+90918950	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+34450136	44.9772995	-93.2654691	Hennepin County	Hennepin County	Minnesota	MN	United States	US	55415
+25689113	39.3009055106516	-76.6106602012776			Maryland	MD	United States	US	21202
+103594788	32.1957274020695	-83.1756889224863	Dodge County	Dodge County	Georgia	GA	United States	US	31023
+26936449	26.7056206	-80.0364297	Palm Beach County	Palm Beach County	Florida	FL	United States	US	33480
+490007575	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+241818979	46.1923037748934	-122.679675092798	Cowlitz County	Cowlitz County	Washington	WA	United States	US	98626
+31057963	48.51886405	2.3718805	Essonne	Essonne	Île-de-France	IDF	France	FR	91610
+302759614	-35.4891187	-62.9756965	Rivadavia	Rivadavia	Buenos Aires	Buenos Aires	Argentina	AR	
+158232890	28.477052520335	-82.4664127164481	Hernando County	Hernando County	Florida	FL	United States	US	34604
+229875160	32.7715227	-89.1167275	Neshoba County	Neshoba County	Mississippi	MS	United States	US	39350
+81011993	-34.69192925	138.58751835			South Australia	SA	Australia	AU	
+105105254	-37.823594146664	145.181088211449			Victoria	VIC	Australia	AU	3131
+40054612	39.1198987438307	-76.6856224801836	Anne Arundel County	Anne Arundel County	Maryland	MD	United States	US	21144
+44544916	32.7888347881421	-86.828827547511	Chilton County	Chilton County	Alabama	AL	United States	US	36750
+169947789	44.6407610635844	-89.7337411530195	Portage County	Portage County	Wisconsin	WI	United States	US	54443
+49099638	46.9760067	7.47234795	Bern	Bern	Bern	BE	Switzerland	CH	3063
+274773585	29.1806792671471	-82.146505342723	Marion County	Marion County	Florida	FL	United States	US	34471
+258568901	42.275564194383	-71.1639021898088	Suffolk County	Suffolk County	Massachusetts	MA	United States	US	02132
+47687609	29.6313486	-96.0651362	Austin County	Austin County	Texas	TX	United States	US	77485
+345330992	35.5260111527082	-79.1308217932097	Lee County	Lee County	North Carolina	NC	United States	US	27330
+16377693	-21.3018599	165.4878868	Houaïlou	Houaïlou	Province Nord	Province Nord	New Caledonia	NC	
+285272554	23.493942	120.291083	Chiayi County	Chiayi County			Taiwan	TW	615
+25888995	38.8298636838324	-104.83232300589	El Paso County	El Paso County	Colorado	CO	United States	US	80903
+315460454	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+3263781	42.3098201	-71.1203299	Suffolk County	Suffolk County	Massachusetts	MA	United States	US	02130
+838680126	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+93288759	38.9381276521313	-77.1755928603116	Fairfax County	Fairfax County	Virginia	VA	United States	US	22101
+828089263	27.7600632199572	-98.239319535078	Duval County	Duval County	Texas	TX	United States	US	78384
+10168082	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+65388145	33.9059036451886	-80.8953018677841	Richland County	Richland County	South Carolina	SC	United States	US	29061
+466850945	44.3890948804148	-114.659381229814	Custer County	Custer County	Idaho	ID	United States	US	83278
+585872743	42.3750997	-71.1056157	Middlesex County	Middlesex County	Massachusetts	MA	United States	US	02139
+537589959	35.5260111527082	-79.1308217932097	Lee County	Lee County	North Carolina	NC	United States	US	27330
+540268378	36.739141955527	-84.1639003116703	Whitley County	Whitley County	Kentucky	KY	United States	US	40769
+96195332	41.5419080584098	-82.7490608201909	Ottawa County	Ottawa County	Ohio	OH	United States	US	43440
+601583325	40.8687097	-73.0014946	Suffolk County	Suffolk County	New York	NY	United States	US	11727
+8185432	40.7608178	-111.8911983	Salt Lake County	Salt Lake County	Utah	UT	United States	US	84101
+469799575	31.9024277106861	-6.4307416701385	Azilal	Azilal	Tadla-Azilal	Tadla-Azilal	Morocco	MA	
+362371284	40.414375588896	-82.7103325006327	Morrow County	Morrow County	Ohio	OH	United States	US	43334
+25357000	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+376885285	38.9877735986165	-77.020672941526	Montgomery County	Montgomery County	Maryland	MD	United States	US	20910
+221040059	40.7902778	-73.9597222	New York County	New York County	New York	NY	United States	US	10029
+184049928	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+256773626	62.3431032404063	16.9018748755589			Västernorrlands län	Västernorrlands län	Sweden	SE	864 31
+26313306	35.2195872	-80.8328489	Mecklenburg County	Mecklenburg County	North Carolina	NC	United States	US	28204
+377528117	47.6195896809194	-122.351426321132	King County	King County	Washington	WA	United States	US	98109
+100643590	42.8869201841485	-78.8731466712471	Erie County	Erie County	New York	NY	United States	US	14203
+107867310	30.0687982767093	-89.9308853379015	Orleans Parish	Orleans Parish	Louisiana	LA	United States	US	70129
+19637012	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+293967375	37.7798139	-122.3911499	San Francisco County	San Francisco County	California	CA	United States	US	94107
+49190063	37.5125328842847	-78.7842249504687	Appomattox County	Appomattox County	Virginia	VA	United States	US	24553
+36700664	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+227837742	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+263929833	30.4380832	-84.2809332	Leon County	Leon County	Florida	FL	United States	US	32301
+376885285	38.9877735986165	-77.020672941526	Montgomery County	Montgomery County	Maryland	MD	United States	US	20910
+23375683	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+32043154	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+17084442	32.7888347881421	-86.828827547511	Chilton County	Chilton County	Alabama	AL	United States	US	36750
+462460868	33.5483344995291	-86.5567343455481	Jefferson County	Jefferson County	Alabama	AL	United States	US	35094
+88674225	40.414375588896	-82.7103325006327	Morrow County	Morrow County	Ohio	OH	United States	US	43334
+261092366	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+44520200	37.7478572	-84.2946539	Madison County	Madison County	Kentucky	KY	United States	US	40475
+43555417	27.9475216	-82.4584279	Hillsborough County	Hillsborough County	Florida	FL	United States	US	33602
+152649168	16.3126806994275	106.367897087277			Savannakhet	Savannakhet	Laos	LA	
+136161105	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+16799649	40.0467781	-74.9861806	Philadelphia County	Philadelphia County	Pennsylvania	PA	United States	US	19114
+127315618	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+218332111	-33.8548157	151.2164539			New South Wales	NSW	Australia	AU	2000
+598881731	39.7683795	-86.1580447	Marion County	Marion County	Indiana	IN	United States	US	46204
+293967375	37.7798139	-122.3911499	San Francisco County	San Francisco County	California	CA	United States	US	94107
+25275688	44.0581728	-121.3153096	Deschutes County	Deschutes County	Oregon	OR	United States	US	97701
+426318626	41.7620447	-72.7420399	Hartford County	Hartford County	Connecticut	CT	United States	US	06107
+90776145	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+94928854	34.2338003271383	-102.409175877629	Lamb County	Lamb County	Texas	TX	United States	US	79031
+15423837	29.6313486	-96.0651362	Austin County	Austin County	Texas	TX	United States	US	77485
+73415906	38.6751523748511	-121.14801564573	Sacramento County	Sacramento County	California	CA	United States	US	95630
+890637882	43.1609582311674	-73.0709933844984	Bennington County	Bennington County	Vermont	VT	United States	US	05255
+319337461	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+621082337	40.7451965084219	-74.0279717608859	Hudson County	Hudson County	New Jersey	NJ	United States	US	07030
+18104557	37.5266535167382	-85.290451313485	Marion County	Marion County	Kentucky	KY	United States	US	40033
+58879475	43.1688417971729	-77.6159448611057	Monroe County	Monroe County	New York	NY	United States	US	14605
+30311356	37.4892312379675	-92.0977482443755	Texas County	Texas County	Missouri	MO	United States	US	65557
+342453826	44.3956249	-69.5711544	Kennebec County	Kennebec County	Maine	ME	United States	US	04358
+487190581	35.5260111527082	-79.1308217932097	Lee County	Lee County	North Carolina	NC	United States	US	27330
+25445038	36.0391456	-114.9819235	Clark County	Clark County	Nevada	NV	United States	US	89015
+16411611	40.8966214099478	-77.8385798823649	Centre County	Centre County	Pennsylvania	PA	United States	US	16823
+346352721	30.3371046758133	-81.6600175074714	Duval County	Duval County	Florida	FL	United States	US	32202
+20892381	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+22209714	35.5260111527082	-79.1308217932097	Lee County	Lee County	North Carolina	NC	United States	US	27330
+260352816	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+37806696	38.9517777090312	-76.6993720409835	Prince George's County	Prince George's County	Maryland	MD	United States	US	20716
+263336093	25.7753464838061	-80.2098089934534	Miami-Dade County	Miami-Dade County	Florida	FL	United States	US	33128
+26495176	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+148383807	38.9363221	-77.4582507	Loudoun County	Loudoun County	Virginia	VA	United States	US	20151
+58879475	43.1688417971729	-77.6159448611057	Monroe County	Monroe County	New York	NY	United States	US	14605
+116927262	43.7229266605499	-79.3884344372254	Toronto Division	Toronto Division	Ontario	ON	Canada	CA	
+224907219	53.501992329249	-113.493219480313	Division No. 11	Division No. 11	Alberta	AB	Canada	CA	T6H 2J1
+875234089	35.4672585183717	-97.5137911109556	Oklahoma County	Oklahoma County	Oklahoma	OK	United States	US	73102
+346206973	35.962782	-83.9201555	Knox County	Knox County	Tennessee	TN	United States	US	37902
+111539157	37.5105191453511	-78.6880292074937	Buckingham County	Buckingham County	Virginia	VA	United States	US	24553
+263334392	27.8237127643269	-97.4173983539285	Nueces County	Nueces County	Texas	TX	United States	US	78402
+239533860	39.3237378620219	-111.678210258026	Sanpete County	Sanpete County	Utah	UT	United States	US	84642
+384393903	39.9086758026305	-86.2752302104939	Marion County	Marion County	Indiana	IN	United States	US	46278
+138922792	39.7311605099723	-84.0626639985957	Greene County	Greene County	Ohio	OH	United States	US	45432
+15730096	34.2479714123448	9.66375871166301	Mazzouna	Mazzouna	Sidi Bou Zid	Sidi Bou Zid	Tunisia	TN	
+872992880	43.5401014577368	-96.7381796734993	Minnehaha County	Minnehaha County	South Dakota	SD	United States	US	57104
+18882704	34.1916515951293	-118.875733308637	Ventura County	Ventura County	California	CA	United States	US	91360
+214049965	-21.3018599	165.4878868	Houaïlou	Houaïlou	Province Nord	Province Nord	New Caledonia	NC	
+48201900	35.5595499269405	51.9021181763498			Tehran	Tehran	Iran	IR	
+262161505	37.55653	126.98301					South Korea	KR	100-051
+237786129	35.9856185	-87.2301868	Dickson County	Dickson County	Tennessee	TN	United States	US	37025
+60193586	41.8756208	-87.6243706	Cook County	Cook County	Illinois	IL	United States	US	60605
+14974885	40.7608178	-111.8911983	Salt Lake County	Salt Lake County	Utah	UT	United States	US	84101
+50754976	41.6094946	-84.7544004	Williams County	Williams County	Ohio	OH	United States	US	43518
+875633221	43.2314015427296	-76.2960242859431	Oswego County	Oswego County	New York	NY	United States	US	13135
+60938552	40.414375588896	-82.7103325006327	Morrow County	Morrow County	Ohio	OH	United States	US	43334
+171304787	41.6395557519921	-75.7048498925631	Lackawanna County	Lackawanna County	Pennsylvania	PA	United States	US	18446
+20404217	42.9894583	-81.2460912	Middlesex County	Middlesex County	Ontario	ON	Canada	CA	N6B 2A6
+19897170	60.9608333	-149.1107333	Anchorage	Anchorage	Alaska	AK	United States	US	99587
+134547925	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+254311027	40.4705514039261	-83.8886258451583	Logan County	Logan County	Ohio	OH	United States	US	43348
+320877434	31.9502444609637	-102.172474678785	Midland County	Midland County	Texas	TX	United States	US	79706
+320877434	31.9502444609637	-102.172474678785	Midland County	Midland County	Texas	TX	United States	US	79706
+255208162	40.0757384	-74.4041622	Ocean County	Ocean County	New Jersey	NJ	United States	US	08527
+133924373	41.5557926540814	-90.6051730239941	Scott County	Scott County	Iowa	IA	United States	US	52806
+41560467	56.5	-4	Perth and Kinross	Perth and Kinross			United Kingdom	GB	PH8 0EH
+232579939	52.5014907949381	13.4023284264194			Berlin	Berlin	Germany	DE	10969
+99140220	43.7229266605499	-79.3884344372254	Toronto Division	Toronto Division	Ontario	ON	Canada	CA	
+37308433	31.9024277106861	-6.4307416701385	Azilal	Azilal	Tadla-Azilal	Tadla-Azilal	Morocco	MA	
+538553513	30.6249483	-96.3309903	Brazos County	Brazos County	Texas	TX	United States	US	77840
+28762327	48.7764765495561	2.29645312233244	Hauts-de-Seine	Hauts-de-Seine	Île-de-France	IDF	France	FR	92330
+298625543	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+19401317	41.0458110237233	-83.6379816792052	Hancock County	Hancock County	Ohio	OH	United States	US	45840
+254041590	35.6800712	139.7685224			Tōkyō-to	Tōkyō-to	Japan	JP	104-0028
+358124146	42.6973054	23.3199839			Sofia-city	Sofia-city	Bulgaria	BG	1000
+30023111	52.0799838	4.3113461	Den Haag	Den Haag	Zuid-Holland	ZH	Netherlands	NL	2513 AH
+42010704	42.4250964	-71.066163	Middlesex County	Middlesex County	Massachusetts	MA	United States	US	02148
+350545056	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+16411361	40.58340662	-122.31286372	Shasta County	Shasta County	California	CA	United States	US	96003
+120181792	19.47924985	-72.658012			Artibonite	Artibonite	Haiti	HT	
+239394171	24.0268263856698	44.3529713315868			Riyadh Province	Riyadh Province	Saudi Arabia	SA	17366
+361835589	26.8693745	78.5930649	Agra	Agra	Uttar Pradesh	UP	India	IN	283104
+350545056	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+83453988	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+66246964	39.0979348105746	-84.5044736684466	Hamilton County	Hamilton County	Ohio	OH	United States	US	45202
+323933714	51.4835299	-3.1836873	Cardiff	Cardiff			United Kingdom	GB	CF10 3NB
+859176692	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+859176692	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+52474019	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+859176692	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+15041797	36.7014631	-118.7559974	Tulare County	Tulare County	California	CA	United States	US	
+490374328	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+732651097	41.6639730384058	-83.5819400927175	Lucas County	Lucas County	Ohio	OH	United States	US	43606
+552094176	44.0735742	-91.5547699	Buffalo County	Buffalo County	Wisconsin	WI	United States	US	54629
+148720003	35.8819848	-78.3138108	Wake County	Wake County	North Carolina	NC	United States	US	27597
+111331653	41.3314828	-73.9867067	Orange County	Orange County	New York	NY	United States	US	10928
+297328190	34.5963061	-117.3817356	San Bernardino County	San Bernardino County	California	CA	United States	US	92394
+369553926	-33.0546283163223	-71.5972182760701	Valparaiso	Valparaiso	Región de Valparaíso	Región de Valparaíso	Chile	CL	
+329730798	45.8107268993664	25.0742296836681	Comuna Mândra	Comuna Mândra	Județul Brașov	BV	Romania	RO	
+24801554	37.2469007653741	-119.622386616854	Madera County	Madera County	California	CA	United States	US	93645
+353125639	35.8326085005232	-78.6447478136395	Wake County	Wake County	North Carolina	NC	United States	US	27609
+225524266	40.7498243	-73.7976337	Queens County	Queens County	New York	NY	United States	US	11358
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+171717959	-5.8204987	-35.2133899	Natal	Natal	Rio Grande do Norte	RN	Brazil	BR	
+18076590	33.007411020078	-97.1674215223075	Denton County	Denton County	Texas	TX	United States	US	76262
+84087594	33.7630245218778	-84.4228731308239	Fulton County	Fulton County	Georgia	GA	United States	US	30314
+400067888	54.7026529241702	-3.27634313190921	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+255401686	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+235718672	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+799867381	31.5621916	74.3228517	Lahore District	Lahore District	Punjab	Punjab	Pakistan	PK	
+173419089	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+243339056	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+30037607	41.080103041391	-81.521927175923	Summit County	Summit County	Ohio	OH	United States	US	44308
+255401686	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+499809937	17.9712148	-76.7928128			Kingston Parish	Kingston Parish	Jamaica	JM	
+105604742	62.3431032404063	16.9018748755589			Västernorrlands län	Västernorrlands län	Sweden	SE	864 31
+839177100	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+255401686	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+295125390	34.0227778	35.6419444	Kesrouane	Kesrouane	Mount Lebanon	Mount Lebanon	Lebanon	LB	
+838727551	37.5125328842847	-78.7842249504687	Appomattox County	Appomattox County	Virginia	VA	United States	US	24553
+101826663	32.7898836389815	13.3369786964228			Tripoli	Tripoli	Libya	LY	
+64285818	44.6355716916204	-90.0249651938892	Wood County	Wood County	Wisconsin	WI	United States	US	54412
+113430220	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+15774775	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+246635722	47.4114902620732	-120.586574680689	Chelan County	Chelan County	Washington	WA	United States	US	98815
+192756238	24.6320297	46.7149069			Riyadh Province	Riyadh Province	Saudi Arabia	SA	12634
+192756238	24.6320297	46.7149069			Riyadh Province	Riyadh Province	Saudi Arabia	SA	12634
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+252969190	29.4246002	-98.4951405	Bexar County	Bexar County	Texas	TX	United States	US	78205
+284685438	23.5947487024346	58.284249382599			Muscat Governorate	Muscat Governorate	Oman	OM	
+760492502	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+16060047	28.4770577407962	-82.4664181019762	Hernando County	Hernando County	Florida	FL	United States	US	34604
+74939983	32.462024	-85.084944	Russell County	Russell County	Alabama	AL	United States	US	36869
+296255546	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+300273581	52.4813679	-1.8980726	West Midlands	West Mids			United Kingdom	GB	
+470535886	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+470535886	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+30023111	52.0799838	4.3113461	Den Haag	Den Haag	Zuid-Holland	ZH	Netherlands	NL	2513 AH
+219180314	45.6358634566841	-122.600221698704	Clark County	Clark County	Washington	WA	United States	US	98661
+17216991	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+28838979	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+274557203	26.1551251	50.5344606			Central Governorate	Central Governorate	Bahrain	BH	
+276877221	25.9423400708658	50.5588636565972			Southern Governorate	Southern Governorate	Bahrain	BH	
+407017775	35.6787312	139.7678139			Tōkyō-to	Tōkyō-to	Japan	JP	103-0028
+108269123	10.211981262717	-67.9894563987671	Municipio Autónomo Valencia	Municipio Autónomo Valencia	Carabobo	Carabobo	Venezuela	VE	2001
+49666447	20.7272222	-155.9871222	Maui County	Maui County	Hawaii	HI	United States	US	96713
+54978381	14.1672462	121.2437986	Laguna	Laguna	Calabarzon	Calabarzon	Philippines	PH	4031
+108124138	51.0000003	9.9999997	Kassel	KS	Hessen	HE	Germany	DE	36205
+108124138	51.0000003	9.9999997	Kassel	KS	Hessen	HE	Germany	DE	36205
+108124138	51.0000003	9.9999997	Kassel	KS	Hessen	HE	Germany	DE	36205
+18805666	47.2257673	-92.4765778	St. Louis County	St Louis County	Minnesota	MN	United States	US	55724
+350545056	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+148509906	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+52067611	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+31317700	36.1949274	-86.7417714	Davidson County	Davidson County	Tennessee	TN	United States	US	37206
+14795451	25.3286752771795	51.5206648277919			Doha	Doha	Qatar	QA	
+312534186	51.5885037	4.7752083	Breda	Breda	Noord-Brabant	NB	Netherlands	NL	4811 XX
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+746776554	14.5568853	121.023532			Metro Manila	NCR	Philippines	PH	
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+384276671	32.1170043	20.0669846			Banghazi	Banghazi	Libya	LY	
+70925516	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+72602987	26.1985768372673	-80.1723232624764	Broward County	Broward County	Florida	FL	United States	US	33309
+49666447	20.7272222	-155.9871222	Maui County	Maui County	Hawaii	HI	United States	US	96713
+614688032	25.929515803141	-80.1292626155592	Miami-Dade County	Miami-Dade County	Florida	FL	United States	US	33160
+250331778	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+400067888	54.7026529241702	-3.27634313190921	Cumbria	Cumb			United Kingdom	GB	CA13 9SS
+130270905	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+78096917	38.3055899	-92.3551807	Miller County	Miller County	Missouri	MO	United States	US	65032
+25512074	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+58097071	44.2334142	-68.3194608	Hancock County	Hancock County	Maine	ME	United States	US	04679
+16475202	43.9388758616622	-120.562652517934	Crook County	Crook County	Oregon	OR	United States	US	97754
+437582919	40.3902270278473	-90.0022920113222	Fulton County	Fulton County	Illinois	IL	United States	US	61543
+247963674	27.1410689746388	18.0400923697049			Al Jufrah	Al Jufrah	Libya	LY	
+21784021	32.37379107	15.09497276			Misratah	Misratah	Libya	LY	
+42493231	38.8951148	-77.0363716			District of Columbia	DC	United States	US	20502
+16880588	38.9047670435249	-77.0162662261833			District of Columbia	DC	United States	US	20001
+419986066	32.1170043	20.0669846			Banghazi	Banghazi	Libya	LY	
+65886633	32.7898827557247	13.3369763535347			Tripoli	Tripoli	Libya	LY	
+16190478	37.16709795	-94.846424	Cherokee County	Cherokee County	Kansas	KS	United States	US	66725
+74939983	32.462024	-85.084944	Russell County	Russell County	Alabama	AL	United States	US	36869
+271657119	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+28178979	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+256886961	41.9902585817254	12.4546124839749	Città Metropolitana di Roma	RM	Lazio	Lazio	Italy	IT	00189
+814643982	-9.25993696738028	124.274677458073			Oecusse	Oecusse	Timor-Leste	TL	
+814643982	-9.25993696738028	124.274677458073			Oecusse	Oecusse	Timor-Leste	TL	
+45641358	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+594977106	40.7608178	-111.8911983	Salt Lake County	Salt Lake County	Utah	UT	United States	US	84101
+565368628	44.4583321	-87.5031397	Kewaunee County	Kewaunee County	Wisconsin	WI	United States	US	54216
+207642548	43.1520122	-76.0610324	Onondaga County	Onondaga County	New York	NY	United States	US	13039
+44984172	34.2935645943479	-111.664250444116	Yavapai County	Yavapai County	Arizona	AZ	United States	US	
+185433265	51.3308319	12.3739196	Leipzig	Leipzig	Sachsen	SN	Germany	DE	04107
+319420349	40.5357743081709	-74.3694688730784	Middlesex County	Middlesex County	New Jersey	NJ	United States	US	08840
+19074053	54.7240339308365	-3.31823790694781	Cumbria	Cumb			United Kingdom	GB	CA7 2HF
+589405202	26.2890044787096	50.109525156505			Eastern Province	Eastern Province	Saudi Arabia	SA	34472
+87472496	35.1863660696233	-111.617559214393	Coconino County	Coconino County	Arizona	AZ	United States	US	86004
+71928213	35.104502535807	-89.9793662815246	Shelby County	Shelby County	Tennessee	TN	United States	US	38114
+186300970	52.0553813	-2.7151735	Herefordshire	Herefordshire			United Kingdom	GB	HR1 2NB
+53450278	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+865024789	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+56308041	31.4889010969327	-99.3535717927991	Coleman County	Coleman County	Texas	TX	United States	US	76873
+106275367	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+17861389	41.6207917723668	-72.7252789954007	Hartford County	Hartford County	Connecticut	CT	United States	US	06037
+622070509	35.5034156	-90.4537143	Poinsett County	Poinsett County	Arkansas	AR	United States	US	72365
+59461030	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+346873432	31.7201746889137	20.4618595975018			Al Hizam Al Akhdar	Al Hizam Al Akhdar	Libya	LY	
+191761809	-46.8140773832711	37.8159465160212			Western Cape	WC	South Africa	ZA	
+194615561	33.9715582436378	-117.571304035459	Riverside County	Riverside County	California	CA	United States	US	92880
+369169271	39.4299512416363	-77.4150931250299	Frederick County	Frederick County	Maryland	MD	United States	US	21701
+30023111	52.0799838	4.3113461	Den Haag	Den Haag	Zuid-Holland	ZH	Netherlands	NL	2513 AH
+579254908	40.8966214099478	-77.8385798823649	Centre County	Centre County	Pennsylvania	PA	United States	US	16823
+49785617	36.3822526291048	-105.271453131843	Colfax County	Colfax County	New Mexico	NM	United States	US	87710
+282245556	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+408677436	51.323067981267	10.3702858803256			Thüringen	Thüringen	Germany	DE	37351
+255443472	54.7240339308365	-3.31823790694781	Cumbria	Cumb			United Kingdom	GB	CA7 2HF
+296255546	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+57811254	39.0833850545721	-77.1552683701545	Montgomery County	Montgomery County	Maryland	MD	United States	US	20850
+579254908	40.8966214099478	-77.8385798823649	Centre County	Centre County	Pennsylvania	PA	United States	US	16823
+791811618	44.873789591494	-85.7305392647706	Leelanau County	Leelanau County	Michigan	MI	United States	US	49621
+98641618	34.0268325735064	-81.2070906700801	Lexington County	Lexington County	South Carolina	SC	United States	US	29072
+255726178	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+255371410	26.2276669543631	50.7029410584319			Muharraq Governorate	Muharraq Governorate	Bahrain	BH	
+272251976	40.6637992775204	-73.938141660459	Kings County	Kings County	New York	NY	United States	US	11213
+255371410	26.2276669543631	50.7029410584319			Muharraq Governorate	Muharraq Governorate	Bahrain	BH	
+192477353	53.5121582	-2.2437248	Greater Manchester	Gt Man			United Kingdom	GB	M8 9DQ
+260952262	37.1215794	-121.6473477	Santa Clara County	Santa Clara County	California	CA	United States	US	95037
+161627772	51.5038234	-0.18913245	Greater London	Gt Lon			United Kingdom	GB	
+148653311	32.1170043	20.0669846			Banghazi	Banghazi	Libya	LY	
+728591502	14.4857102684187	121.021693761532	Metro Manila	Metro Manila	Metro Manila	NCR	Philippines	PH	1711
+98641618	34.0268325735064	-81.2070906700801	Lexington County	Lexington County	South Carolina	SC	United States	US	29072
+189484297	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+334993399	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+246498459	39.9086032590092	-86.2750253303807	Marion County	Marion County	Indiana	IN	United States	US	46278
+256863796	41.2639341054961	-96.0379383096672	Douglas County	Douglas County	Nebraska	NE	United States	US	68114
+190820595	55.7516147	37.6187089	gorod Moskva	g. Moskva	Moscow	Moscow	Russia	RU	
+16415170	33.141706	-117.1008656	San Diego County	San Diego County	California	CA	United States	US	92026
+75853781	32.7801052	-96.8000082	Dallas County	Dallas County	Texas	TX	United States	US	75202
+891582110	33.554480581039	-117.771239345701	Orange County	Orange County	California	CA	United States	US	92651
+47095259	33.7630245218778	-84.4228731308239	Fulton County	Fulton County	Georgia	GA	United States	US	30314
+251326118	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+455054275	46.6069832388272	-66.367220828809	Northumberland County	Northumberland County	New Brunswick	NB	Canada	CA	
+839177100	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
+39953073	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+17850787	28.3530796179195	-98.1261337591941	Live Oak County	Live Oak County	Texas	TX	United States	US	78022
+17712142	35.5595499269405	51.9021181763498			Tehran	Tehran	Iran	IR	
+176948724	30.12077	-97.6352784	Travis County	Travis County	Texas	TX	United States	US	78617
+251326118	46.9340078888366	-56.3074171473392			Miquelon-Langlade	Miquelon-Langlade	Saint Pierre and Miquelon	PM	
+63480496	45.5224507	-73.5912827	Communauté-Urbaine-de-Montréal	Communauté-Urbaine-de-Montréal	Québec	QC	Canada	CA	H2T 1G8
+74939983	32.462024	-85.084944	Russell County	Russell County	Alabama	AL	United States	US	36869
+305540521	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+306872064	34.0966764	-117.7196785	Los Angeles County	Los Angeles County	California	CA	United States	US	91711
+280914937	9.600036	7.999972			Kaduna	Kaduna	Nigeria	NG	
+322382076	45.3547433	9.6542972	Provincia di Cremona	CR	Lombardia	Lombardia	Italy	IT	26013
+90393961	44.873789591494	-85.7305392647706	Leelanau County	Leelanau County	Michigan	MI	United States	US	49621
+372968261	26.8234472	18.1236723			Al Jufrah	Al Jufrah	Libya	LY	
+812836951	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+239378332	19.8557561779443	145.313199870233					Northern Mariana Islands	MP	
+72646596	38.2544444	-76.9638889	Westmoreland County	Westmoreland County	Virginia	VA	United States	US	22443
+189484297	32.8950269	13.1811777			Tripoli	Tripoli	Libya	LY	
+37308433	31.9024277106861	-6.4307416701385	Azilal	Azilal	Tadla-Azilal	Tadla-Azilal	Morocco	MA	
+372968261	26.8234472	18.1236723			Al Jufrah	Al Jufrah	Libya	LY	
+471961196	40.2635794156016	-89.231200715351	Logan County	Logan County	Illinois	IL	United States	US	61723
+22159062	43.1520122	-76.0610324	Onondaga County	Onondaga County	New York	NY	United States	US	13039
+889738908	54.7240339308365	-3.31823790694781	Cumbria	Cumb			United Kingdom	GB	CA7 2HF
+276891481	25.9423400391532	50.5588635577687			Southern Governorate	Southern Governorate	Bahrain	BH	
+26460275	42.9684876327004	-75.6681744491876	Madison County	Madison County	New York	NY	United States	US	13408
+839177100	39.7837304	-100.4458825	Decatur County	Decatur County	Kansas	KS	United States	US	67749
