@@ -37,6 +37,9 @@ def get_geo_information():
                     if(address['types'][0]=='postal_code'):
                         postalcode = address['long_name']
             fw.write(lat+'\t'+lon+'\t'+city+'\t'+cityShort+'\t'+state+'\t'+stateShort+'\t'+country+'\t'+countryShort+'\t'+postalcode+'\n')
+        elif data['status'] == 'OVER_QUERY_LIMIT':
+            print 'OVER_QUERY_LIMIT'
+            break
     f.close()
     fw.close()
 
@@ -74,9 +77,10 @@ def map_values(dict):
 
 
 def main():
-    #get_geo_information()
+    print('In Main')
+    get_geo_information()
     dict = create_dictionary()
     map_values(dict)
-
+    
 
 main()
